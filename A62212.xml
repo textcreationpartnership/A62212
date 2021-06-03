@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saul at Endor: or, The ghost of the Marquiss de Louvois consulted by the French King concerning present affairs. Done out of French</title>
+         </titleStmt>
+         <extent>Approx. 139KB of XML-encoded text transcribed from 78 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62212</idno><idno type="EEBO-CITATION">99831354</idno>
+  <idno type="VID">35817</idno>
+  <idno type="EEBO-PROQUEST">2240945807</idno>
+  
+            <idno type="STC">Wing S731</idno>
+            <idno type="STC">ESTC R219907</idno>
+            <idno type="PROQUEST">99831354</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831354e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2042:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saul at Endor: or, The ghost of the Marquiss de Louvois consulted by the French King concerning present affairs. Done out of French</title>
+               </titleStmt>
+               <extent>[2], 151, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin near the Oxford Arms in Warwick Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: Saul and the witch of Endor: or, Monsieur de Louvois his ghost consulted by the French King.</note>
+                  <note>With a final page of advertisement.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35817:1"/>
+            <p>
+               <hi>SAƲL</hi> at <hi>ENDOR:</hi> OR, THE GHOST OF THE <hi>Marquiss de</hi> LOUVOIS Consulted by the <hi>French King</hi> Concerning the present Affairs.</p>
+            <q>
+               <l>Flectere si nequeo Superos Acheronta movebo. <bibl>
+                     <hi>Virgil.</hi>
+                  </bibl>
+               </l>
+               <l>—Minuit furorem</l>
+               <l>Vix una sospes Navis ab Ignibus:</l>
+               <l>Mentemque lymphatam Mareotico</l>
+               <l>Redegit in veros timores <hi>Caesar.</hi>
+                  <bibl>
+                     <hi>Horat.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>
+               <hi>Done out of French.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin</hi> near the <hi>Oxford Arms</hi> in <hi>Warwick Lane.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35817:2"/>
+            <pb n="1" facs="tcp:35817:2"/>
+            <head>Saul <hi>and the Witch of</hi> Endor: OR, <hi>Monsieur de</hi> LOUVOIS HIS GHOST Consulted by the <hi>French King.</hi>
+            </head>
+            <p>
+               <hi>FRancis Michael le Tellier</hi> Marquiss <hi>de Louvois,</hi> Chief Minister and Secretary of State, Commander and Chancellor of his Majesty's Order,
+<pb n="2" facs="tcp:35817:3"/> Super-Intendant of his Buildings, Grand Vicar of the Order of St. <hi>Lazarus,</hi> of our Lady of Mount <hi>Carmel,</hi> Super-Intendant of the Posts of <hi>France,</hi> &amp;c. dyed at <hi>Versaille</hi> the Sixteenth of <hi>July</hi> 1691.</p>
+            <p>Every one knows how useful that great Minister was to <hi>France,</hi> during the whole course of his Mi<g ref="char:EOLhyphen"/>nistry, but particularly in this pre<g ref="char:EOLhyphen"/>sent War, wherein the King his Ma<g ref="char:EOLhyphen"/>ster is engaged alone against most Princes in <hi>Europe.</hi> He generally gave necessary Orders for every Expedition; by him the Armies of <hi>France</hi> were put in Motion, and he managed those Intrigues by which his Master got possession of several considerable Places. It may be said to the honour of the Marquiss <hi>de Louvois,</hi> that his Master seldom or never appear'd at the Head of his Army, unless it were to gather the Fruits of the Studies and Negotia<g ref="char:EOLhyphen"/>tions
+<pb n="3" facs="tcp:35817:3"/> of that great Minister, and that he always acquitted himself very well in the high Affairs wherein he was intrusted. By the good success of his Services, he had found out the way to make himself so neces<g ref="char:EOLhyphen"/>sary to his Prince, that his loss is still lamented every moment, so much the more as the King finds himself obliged to bear the greatest part of the burthen of the great and important Affairs of War that overwhelm him on all sides, <hi>viz.</hi> those of <hi>Germany, Flanders, Savoy, Catalonia,</hi> and particularly the Ma<g ref="char:EOLhyphen"/>rine; whereas formerly he intirely relied on the Care, Fidelity, Vigi<g ref="char:EOLhyphen"/>lance, and Experience of Monsieur <hi>de Louvois;</hi> so that we may safely say, that the Fateagues to which that King is now exposed to main<g ref="char:EOLhyphen"/>tain himself in his present greatness, hinder him very often from taking of his rest; which occasioned one of
+<pb n="4" facs="tcp:35817:4"/> his Courtiers one day to say, <hi>That whilst all those of his Court slept qui<g ref="char:EOLhyphen"/>etly, he watch'd for them.</hi>
+            </p>
+            <p>One Evening, the King having receiv'd some bad News, and most of his Courtiers being withdrawn out of his Bed-Chamber, his Maje<g ref="char:EOLhyphen"/>sty put himself in his Night-gown, and having dismist the Gentlemen of his Bed-Chamber, order'd also Monsieur <hi>Petit</hi> his <hi>Valet de Cham<g ref="char:EOLhyphen"/>bre</hi> to leave him, desiring to be a<g ref="char:EOLhyphen"/>lone, as it were, to write some pri<g ref="char:EOLhyphen"/>vate Dispatch with his own Hand, as he doth sometimes, principally since the Death of Monsieur <hi>de Lou<g ref="char:EOLhyphen"/>vois.</hi> The King saw himself no sooner alone, and at liberty, but he gave his Grief a loose, and Curst the angry Fates for the loss of Mon<g ref="char:EOLhyphen"/>sieur <hi>de Louvois.</hi> After many Ex<g ref="char:EOLhyphen"/>postulations, he broke out into the following Prayer in a woful Tone.</p>
+            <pb n="5" facs="tcp:35817:4"/>
+            <p>
+               <hi>You know, O immaculate Virgin! great Queen of Heaven and Earth, that I have done my best to extirpate Hereticks who would not put their Trust in you; for this Cause am I hated by most of my Enemies; but I have recourse to you, my good Lady, as to my only Hopes. Assist me your devout and pious Son, with a kind look in this time of need; and as a Token of my Gratitude, I here make a solemn Vow to cause Seven Tapers of Virgin Wax in memory of your Seven Griefs, to burn both by day and by night, before your adorable Shrine, and if I may but be victo<g ref="char:EOLhyphen"/>rious over my Enemies I will through<g ref="char:EOLhyphen"/>ly confound and destroy all Hereticks, and all those ungodly Wretches who will not say</hi> Ave Maria: <hi>This I vow unto you now, O Mother of Comfort, Gate of Heaven, the only Relief of all afflicted Souls, and Hope of all good Catholicks who devoutly call up<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:35817:5"/> you; grant unto me at this present time, as also to my only Friend and Ally, some sign of your Protection. O Lady of Miracles! be pleased to work One now in our favour, so will my Ally be Converted, seeing the care you take of our Armies, and of those that call upon you. O let him not make a separate Peace with the</hi> Ger<g ref="char:EOLhyphen"/>mans, <hi>I beseech you; and seeing that you are a Mother of Peace, I am ready to grant it to my Enemies, and will even condescend so far as to yield to them a Town or two: For lo! they are about me like hungry Lions, seeking to devour me; send down some good Angel to dispose them to it, and take my Kingdom under your Protection, that I may not fall into the hands of those cursed Hereticks the</hi> Hugonots, <hi>who would swallow me up, because I am your pious Son.</hi> Ave Maria, <hi>&amp;c.</hi>
+            </p>
+            <pb n="7" facs="tcp:35817:5"/>
+            <p>As soon as <hi>Lewis</hi> had ended his Prayer, with all the Catholicism of a Penitent (for Distress will turn even a rank Atheist into a whining Bigot) he mumbled over the Lita<g ref="char:EOLhyphen"/>nies of the Virgin most devoutly, most exactly told over his Beeds, and crost himself over and over most reverently. Then, with an aking heart and a sorrowful mind alas poor Innocent Soul! he in a de<g ref="char:EOLhyphen"/>sponding manner threw himself on the Bed, expecting some sign as an effect of his uncommon and meri<g ref="char:EOLhyphen"/>torious Expressions of Zeal. But ha<g ref="char:EOLhyphen"/>ving waited a while, vext to find his Blessed Lady as dumb as his good Brother and Ally's Mutes, he arose from the Bed in as great a rage as an amorous Doxy from a disap<g ref="char:EOLhyphen"/>pointing Lover. <hi>What?</hi> said he, <hi>does Heaven forsake me too; sure I trouble it seldom enough in earnest to have my request granted now:
+<pb n="8" facs="tcp:35817:6"/> Must the Prayers of a thousand lit<g ref="char:EOLhyphen"/>tle rascally Emmets be daily an<g ref="char:EOLhyphen"/>swer'd, and the Great Monarch of</hi> France <hi>not be minded? O for some honest Conjurer or other, that would help me to an hours Converse with a certain Gentleman below!</hi> Some say that he made use of that Ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se of <hi>Virgil;</hi>
+               <q>
+                  <lg>
+                     <l>Flectere si nequeo Superos Acheronta movebo.</l>
+                  </lg>
+                  <lg>
+                     <l>If with the Gods I can't prevail,</l>
+                     <l>I'me sure the Devil will not fail.</l>
+                  </lg>
+               </q> But that cannot well be; for, if I am not mistaken, that old Fox <hi>Mazarin</hi> to keep him in Ignorance, so to preserve to himself, and his dear Mistress, the Administration of Affairs in their own Hand, never would bestow so much Breeding on him as to enable him to understand
+<pb n="9" facs="tcp:35817:6"/> even his Breviary: However, so much I dare say, that he call'd out for <hi>Louvois,</hi> and made many a sad Exclamation for that deceased Minister. <hi>O Louvois,</hi> said he, <hi>where art thou? I would give ten thousand Lewis d Or (and that is a great Sum with me at present) could I but dis<g ref="char:EOLhyphen"/>course an hour or two with thee, dear politick Postillion of mine! Where art thou —</hi> Louvois! <hi>Why dost thou not answer! 'Tis thy Soveraign calls, who hath done thee and thine so much good; who drew thy Father out of the hurry of the noisie Bar, to raise him to the Pinacle of a Lawyer's Ambition, the Chancellorship of my Kingdom. 'Tis I who made thee the richest Subject in</hi> Europe, <hi>nay, able to vie with some of my Northern Brethren in Wealth; and canst theu be so unconscionably ungrateful, as not to speak to thy old Benefactor in his greatest need? Speak, I say.</hi> He
+<pb n="10" facs="tcp:35817:7"/> spoke the last words so loud, that his <hi>Valet de Chambre</hi> Monsieur <hi>Pe<g ref="char:EOLhyphen"/>tit,</hi> who was in the <hi>Wardrobe,</hi> ima<g ref="char:EOLhyphen"/>gining that he call'd him, came with as little noise as he could to his Bed-side; but the King hearing him stir, call'd out saying, <hi>Is it you? draw near.</hi> The <hi>Valet de Chambre</hi> then, as usually, came in view. The King being amazed at his sight, told him that he had nothing to say to him, and that he would speak with Monsieur <hi>de Louvois.</hi>
+            </p>
+            <p>
+               <hi>May it please your Majesty,</hi> reply<g ref="char:EOLhyphen"/>ed the Valet de Chambre, <hi>Monsieur</hi> de Louvois <hi>hath been dead above this Twelve months. What of that, Blockhead?</hi> said the King, <hi>I know it well enough; I would only speak with his Ghost: I want to consult him a<g ref="char:EOLhyphen"/>bout matters of moment. Therefore I would have you to find me out im<g ref="char:EOLhyphen"/>mediately some old Woman or other, having a Divining Spirit, who by
+<pb n="11" facs="tcp:35817:7"/> her power may cause</hi> Louvois <hi>to rise again, that he and I may lay our Heads together; for my Enemies in<g ref="char:EOLhyphen"/>crease, and press me so very hard, that I dread the Consequences.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> said the Valet de Chambre, <hi>since your Majesty hath caused Madam</hi> Voisin <hi>to be burn'd, none have dar'd to addict themselves to the Black Art for fear of undergoing the same punishment; and if she hath left a<g ref="char:EOLhyphen"/>ny Disciples, they keep themselves so close that there is no coming at them. However, there is a good old Woman, who was a kind of a House-keeper at</hi> La Voisin<hi>'s, that is shrewdly suspect<g ref="char:EOLhyphen"/>ed for that Art; and, as it is said, hath a Familiar Spirit; but these kind of People are grown so provi<g ref="char:EOLhyphen"/>dent now a-days, as only to make use of those sorts of Spirits for them<g ref="char:EOLhyphen"/>selves: Just as they say of Marshal</hi> Luxemburgh, <hi>who, if you will be<g ref="char:EOLhyphen"/>lieve some people, has purchas'd one
+<pb n="12" facs="tcp:35817:8"/> of them only to win Battels, to enjoy your Majesty's Favour, and the Love of the Ladies; for which cause he was clapt up in the</hi> Bastille, <hi>though his Judges did not think fit to exa<g ref="char:EOLhyphen"/>mine the business narrowly; as your Majesty doubtless knows better than any one else?</hi>
+            </p>
+            <p>
+               <hi>They are a parcel of ignorant Blockheads that talk thus,</hi> said the King, <hi>and know no more of the mat<g ref="char:EOLhyphen"/>ter, than a true Dragoon doth of the World to come. It is true, that he was confin'd about the time of the late famous Poysoning Marchioness</hi> de Brinvilliers, <hi>upon some suspition of poysoning, soon after the death of the Count de</hi> Soissons, <hi>and for ha<g ref="char:EOLhyphen"/>ving forc'd his Chaplain to say the holy Mass on the Countess of —</hi>'s <hi>Belly, whilst he and several other Ladies stark naked, each with a black wax Taper in hand, walk'd round her in the manner of a Procession; and
+<pb n="13" facs="tcp:35817:8"/> perhaps he had remain'd in the</hi> Ba<g ref="char:EOLhyphen"/>stille, <hi>as a fit reward for his frollick, had not</hi> Louvois <hi>earnestly sued for his Inlargement, which I granted in con<g ref="char:EOLhyphen"/>sideration of the remarkable Acti<g ref="char:EOLhyphen"/>ons he did in</hi> Holland, <hi>during the War of Seventy two, at the Passage of</hi> Bodegrave <hi>and</hi> Swammerdam. <hi>But supposing that he had such a Fa<g ref="char:EOLhyphen"/>miliar Spirit, he is now so mightily taken up in</hi> Flanders, <hi>that there is no getting him here, though he could wish it with all his heart: There<g ref="char:EOLhyphen"/>fore think on some other, and thou may'st assure him or her, upon my Royal Word (which I scorn to break for such a trifle) that he shall not receive the least harm, and that I will keep him out of the Judges Claws, and even free him for the future from the power of the burning Chamber, that dreadful Foe to all Poyson<g ref="char:EOLhyphen"/>mongers.</hi>
+            </p>
+            <pb n="14" facs="tcp:35817:9"/>
+            <p>
+               <hi>Your Majesty then must know,</hi> said <hi>Petit, that this same good Woman dwells in a Wood not very far from this place, and makes a shift to pick a livelyhood out of Fortune-telling: she has a singular knack at that In<g ref="char:EOLhyphen"/>genious Vocation. When any thing is lost, people use to repair to her as to an infallible Prophet; and they say that she did not a little contribute to the recovery of the Golden Lamp that used to light our Blessed Lady in the Church of</hi> Notre-Dame, <hi>which some Robbers had had the Im<g ref="char:EOLhyphen"/>pudence to steal before her face, and leave her Ladiship in the dark.</hi>
+            </p>
+            <p>
+               <hi>Enough,</hi> said the King, <hi>this Wo<g ref="char:EOLhyphen"/>man will do my business; go immedi<g ref="char:EOLhyphen"/>ately and get me a couple of Horses ready, that we may go to her</hi> Incog<g ref="char:EOLhyphen"/>nito, <hi>for I would not have her to know who I am.</hi>
+            </p>
+            <p>
+               <hi>I presume,</hi> said <hi>Petit, to let your Majesty know aforehand, that you
+<pb n="15" facs="tcp:35817:9"/> ought not to be frighted when she be<g ref="char:EOLhyphen"/>gins to make some demonstration of her Art.</hi>
+            </p>
+            <p>
+               <hi>Never fear,</hi> said the King, <hi>I shall go well enough provided against the worst that Hell can do; I have a<g ref="char:EOLunhyphen"/>bout me an</hi> Agnus Dei <hi>sent formerly to by Pope</hi> Urban <hi>the Fifth to</hi> John Paleologue <hi>Emperour of</hi> Greece, <hi>and a Lappet of St.</hi> Joseph<hi>'s Shooe which he wore when he led the holy Virgin into</hi> Egypt; <hi>a Snip of it thrown in<g ref="char:EOLhyphen"/>to the fire is enough to drive away the most refractory and presuming of</hi> Lucifer<hi>'s sooty Messengers: neither have I given any credit to it, but up<g ref="char:EOLhyphen"/>on very Authentick Certificates of the Miracles it hath wrought in ma<g ref="char:EOLhyphen"/>ny places.</hi>
+            </p>
+            <p>
+               <hi>Since you are so well provided,</hi> said <hi>Petit, your Majesty might even venture to take a Turn to Hell with more assurance than</hi> Orpheus, <hi>when he fetched from thence his dear</hi> Euri<g ref="char:EOLhyphen"/>dice;
+<pb n="16" facs="tcp:35817:10"/>
+               <hi>for what Devil, but must trem<g ref="char:EOLhyphen"/>ble, at the thought of a Snip of the Lappet of St.</hi> Joseph<hi>'s old Shooe, when even a drop of Holy Water will make a Legion of them vanish.</hi>
+            </p>
+            <p>No sooner were the Horses got ready, but the King, his <hi>Valet de Chambre,</hi> and a trusty Footman sallied out, and rid to the Womans House. Being come to her poor Hut or Shed, the King and his <hi>Va<g ref="char:EOLhyphen"/>let de Chambre</hi> left their Horses with the Footman and went in. The Hut lay by a dark and profound Cave. You need not doubt but the King, as soon as he came in, like a good Catholick, secur'd him<g ref="char:EOLhyphen"/>self by making the Sign of the Cross. The Woman was not a little surpriz'd to see at such an hour two such Visitants in her Shed. Af<g ref="char:EOLhyphen"/>ter she had dropt them some half dozen Curtsies, she made shift to ask them what they would have of
+<pb n="17" facs="tcp:35817:10"/> her, who alas! poor innocent Soul, having not wherewithal to get ad<g ref="char:EOLhyphen"/>mittance into an Alms-house, was forc'd to shelter her self here in a Wood to sit Rent-free at least.</p>
+            <p>The King, who at first was not known, said to the Woman, <hi>I pre<g ref="char:EOLhyphen"/>thee good Woman, Divine for me what I shall ask of thee, and cause to rise out of the Earth, by the power of thine Art, him whom I shall name to thee, and I will not fail to reward thee largely if thou do'st it.</hi>
+            </p>
+            <p>
+               <hi>Good Sir,</hi> reply'd the Woman, <hi>you know how the King has serv'd Madam</hi> Voisin, <hi>my good Mistress, and that he has vow'd to extirpate all Soothsayers and Wizards out of his Kingdom: Why then do you come to tempt me, and lay a Snare for my Life, to cause me to die a miserable Death?</hi> The King then lifted up his hand, and swore to her that no Ill should befal her through his means,
+<pb n="18" facs="tcp:35817:11"/> nay far from that, he would even preserve her from any for the fu<g ref="char:EOLhyphen"/>ture; telling her that he would en<g ref="char:EOLhyphen"/>gage his Life for the Security of hers. This somewhat allay'd the old Womans fears, who then ask'd him, what Man he desir'd she should Conjure up for him. <hi>Let the Mar<g ref="char:EOLhyphen"/>quess</hi> de Louvois <hi>ascend,</hi> said the King, <hi>that I may see him, for I must by all means speak with him.</hi> Having heard that Name, the Woman all trem<g ref="char:EOLhyphen"/>bling made a fire, and lighted a couple of little black wax Candles; and as the fire began to kindle, mum<g ref="char:EOLhyphen"/>bling some barbarous words, which probably neither she nor they could understand, she threw into it a cer<g ref="char:EOLhyphen"/>tain Powder, which gave such an horrible report, and bounc'd so fu<g ref="char:EOLhyphen"/>riously, that it had like to have blown up the old Womans Quar<g ref="char:EOLhyphen"/>ters, and have battered the Hut a<g ref="char:EOLhyphen"/>bout their Ears.</p>
+            <pb n="19" facs="tcp:35817:11"/>
+            <p>The King immediately cross'd himself: But the Woman pray'd him to forbear, and wait a while quietly in a corner of the Hut. Af<g ref="char:EOLhyphen"/>ter this she took a white Wand speckled with black in her hand, and having wav'd it thrice round, made a Circle on the ground with some barbarous Characters, still mumbling some words between her Teeth; upon this a huge Stone fell from the Chimney top into the fire, and scatter'd the sparks of it all a<g ref="char:EOLhyphen"/>round, which, by the way, did some<g ref="char:EOLhyphen"/>what startle our Hero; but at last, after many Repetitions, the old Woman saw something arise out of the ground like a Ghost; at the same time she threw her self at the King's Feet much affrighted, and cr'd out, <hi>Ah! my Liege, why have you deceiv'd me? you are the King.</hi>
+            </p>
+            <p>The King, who began to be a<g ref="char:EOLhyphen"/>fraid in good earnest, endeavour'd
+<pb n="20" facs="tcp:35817:12"/> to take heart by incouraging the old Woman, and gave her his Royal Word that no harm should befal her; and then prest her to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell him what she had seen.</p>
+            <p>
+               <hi>I see,</hi> said the Devil's old Ac<g ref="char:EOLhyphen"/>quaintance, <hi>something like the Ghost of a Man arising out of the ground.</hi>
+            </p>
+            <p>
+               <hi>What shape hath it,</hi> said the King. <hi>If my Spectacles doth not deceive me,</hi> said she, <hi>it should be a fat squabby kind of a Man, about fifty years of Age, with a blew Ribbon about him, and an hard favour'd Countenance.</hi>
+            </p>
+            <p>The King knew him by these Tokens, and call'd to him twice, <hi>Is it you,</hi> Louvois? said he, <hi>Why will you not answer?</hi>
+            </p>
+            <p>At these words the Ghost that resembled the Marquess <hi>de Louvois,</hi> answerd, <hi>Ah Sir! why do you trou<g ref="char:EOLhyphen"/>ble me, to make me rise, and visit this World again? Ah dear</hi> Louvois! <hi>It is because I am very much perplex'd,
+<pb n="21" facs="tcp:35817:12"/> and cannot tell what to do,</hi> said the King, <hi>my Enemies have encompass'd me all around, and press me very hard, principally the Prince of</hi> Orange, <hi>who doth not give me so much as leisure to breathe; he presses poor</hi> Luxem<g ref="char:EOLhyphen"/>burgh <hi>so very hard every day, and is so eager to bring him to a Battel in</hi> Flanders <hi>(which yet according to the direction you bequeath'd me, he hath been so happy as to avoid) that notwithstanding all our Works, I am affraid that one day or other he will force our Trenches, and serve</hi> Lux<g ref="char:EOLhyphen"/>emburgh <hi>worse than he did former<g ref="char:EOLhyphen"/>ly at the Battel of</hi> Mons; <hi>neither Hedges, Defiles, Brooks, nor other Difficulties can stay him and his de<g ref="char:EOLhyphen"/>sperate English. For (what's almost incredible) they have lately whip'd even my Houshold Forces from post to post; and though at last, through the badness and unpassableness of the ways, the neighbourhood of my whole Army,
+<pb n="22" facs="tcp:35817:13"/> its advantageous post, and other dif<g ref="char:EOLhyphen"/>ficulties, not possible to be overcome by mortal men, they were oblig'd to desist from their daring Attempt; yet I am in a continual Agony, lest those bloody Mastives force the old Wolf in his very Den. Besides, a<g ref="char:EOLhyphen"/>las! I have woful Stories to tell you if you have not heard them below already. Ah!</hi> Louvois, <hi>the Case is much alter'd since I lost you;</hi> Lyme<g ref="char:EOLhyphen"/>rick <hi>has been oblig'd to yield to the Prince of</hi> Orange, <hi>and with it all</hi> Ireland; <hi>and to enhance my woes, the Council of</hi> Spain <hi>made choice of the Elector of</hi> Bavaria <hi>to govern their</hi> Netherlands <hi>in the place of the good Marquess</hi> de Castanaga; <hi>so, besides the loss which I am at now for get<g ref="char:EOLhyphen"/>ting Horses out of those parts as for<g ref="char:EOLhyphen"/>merly, you may judge what further disappointment I am at. But the worst of all is, that these plaguy En<g ref="char:EOLhyphen"/>glish are not yet satisfied with the
+<pb n="23" facs="tcp:35817:13"/> reduction of</hi> Ireland, <hi>and allarming me daily in</hi> Flanders, <hi>but they threat<g ref="char:EOLhyphen"/>en, forsooth! to give me such an un<g ref="char:EOLhyphen"/>welcome Visit as their Ancestors for<g ref="char:EOLhyphen"/>merly have done. I have had time<g ref="char:EOLhyphen"/>ly notice given me of this, by my Pensioners in that Kingdom, who, as you know, are not a few; and, to pre<g ref="char:EOLhyphen"/>vent it, I had not only got together on the Coast of</hi> Normandy <hi>a conside<g ref="char:EOLhyphen"/>rable Body of my Men, besides my Brother</hi> James<hi>'s Irish Fry, who being turn'd out of</hi> Ireland <hi>thought them<g ref="char:EOLhyphen"/>selves cock-sure of a good Settlement in</hi> England <hi>upon the Encouragement we had from thence: But, when we thought so too as well as they, my Fleet which was to make way for them, and secure their landing, was so abomina<g ref="char:EOLhyphen"/>bly mawl'd by that of the Enemy, some of which we expected to have si<g ref="char:EOLhyphen"/>ded with us; that I may almost say it is now no more: My</hi> Royal Sun, <hi>and some twenty more of my best
+<pb n="24" facs="tcp:35817:14"/> Ships were burnt and destroy'd in the sight of my Army, whilst my Foes Lord it over the Seas, and I do not know but that this very moment they may have made a descent into my Country. Now in these Exigencies lost, undone on all parts, destitute of solid Councils, I sent for you out of the Abyss to Consult you, and take right measures upon what I ought to do; for I have call'd upon the blessed Virgin, my Patroness, but she hath not vouchsafed me an Answer.</hi>
+            </p>
+            <p>And do you think I can satisfie you better, <hi>reply'd</hi> Louvois; why did you make her your Enemy by stripping her and her Altars of their most costly Ornaments?</p>
+            <p>
+               <hi>I did it in imitation of the</hi> Ro<g ref="char:EOLhyphen"/>man <hi>Dictators,</hi> said the King.</p>
+            <p>The Case is different, <hi>said</hi> Lou<g ref="char:EOLhyphen"/>vois. If in the times of old <hi>Rome</hi> the Dictators some times took out of the Temples of their Gods their Gold
+<pb n="25" facs="tcp:35817:14"/> and Silver Vessels, they did it by the Authority of the Laws, which allow'd this in the Exigencies of their Republick: But you did it by your single Authority, out of your own Head, without the least shadow of Law to colour the Theft, meerly to to shew that your <hi>sic volo, sic jubeo</hi> extends to the very Altar. By this you have lost your Title to the Protection of Heaven. Ah Sir! You had done better had you fol<g ref="char:EOLhyphen"/>low'd my Counsel, and left that alone, and not have persecuted your Subjects: But you wisely chose to follow the Advice of your Mistresses, and your damn'd Coun<g ref="char:EOLhyphen"/>sellors in spight of mine. Remem<g ref="char:EOLhyphen"/>ber also that you have not only rob'd your Neighbour of his Goods, but also of his Wife: For which cause you shall be pursued by your Enemies; The Sword of the Man whom you despis'd shall reach you,
+<pb n="26" facs="tcp:35817:15"/> and you will fly before him. Your Kingdom will be invaded, a Civil War will follow, the Son shall rise against his Father, and those on whom you have trampled will rise up all at once against you: Famine, Slaughter, and Mortality will be the Fruits of that war, and the Grief you will feel, to see your self re<g ref="char:EOLhyphen"/>duc'd to fly before the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi> your mortal Enemy, will soon send you where I am.</p>
+            <p>
+               <hi>Louis le Grand</hi> trembled to hear this dreadful Sentence, and his heart began to fail him. The Woman upon this did her best to chear up his Courage with a comforting Dram, which revived him a little; and then he took heart of grace, and continued to speak to the Ghost.</p>
+            <p>
+               <hi>Pray,</hi> said he, Louvois, <hi>do you think you was poison'd, as some of the Physicians who visited you, gave
+<pb n="27" facs="tcp:35817:15"/> it out? For if you was, I will make so strict an inquiry about it, and pu<g ref="char:EOLhyphen"/>nish the Guilty so severely, that your Family will see that I have not for<g ref="char:EOLhyphen"/>got your Services.</hi>
+            </p>
+            <p>Alas Sir! <hi>reply'd</hi> Louvois, I can<g ref="char:EOLhyphen"/>not give you any account of this: All I know is, that as I came out of your Majesty's Closet, I was seiz'd with a great Palpitation of Heart, and felt a raging fire in my Intrails, that made me give up the Ghost, e<g ref="char:EOLhyphen"/>ven with the Mineral Waters, which I had just taken, within me. Thus I had neither time to Repent nor Confess, and therefore having not receiv'd the Absolution of my Sins, nor made Restitution of what (like many other great Ministers) I had unlawfully gotten, I am now most intollerably tormented, it being too late to remedy it.</p>
+            <p>
+               <hi>How?</hi> said the King, <hi>Can they be so uncivil where you are, as not to
+<pb n="28" facs="tcp:35817:16"/> have some consideration for you, whom all the World respected so much whilst you liv'd. Sure they can never be so unmannerly?</hi>
+            </p>
+            <p>Alas Sir! The meanest Post-Boy or Penny-Secretary is esteem'd as much below as the greatest Mini<g ref="char:EOLhyphen"/>ster; we all are equal there, as your Majesty will find it one day; and if there is any difference among us, 'tis only in the Punishment that is inflicted on us, which is always pro<g ref="char:EOLhyphen"/>portionable to the Ills we have com<g ref="char:EOLhyphen"/>mitted in the World.</p>
+            <p>
+               <hi>Lewis,</hi> who naturally loves his Pleasure as well as any he in his Kingdom, and as little covets to hear of Pain and Suffering, as a Convicted Malefactor a Discourse about Ropes and Gallows, cut him short, and resum'd the Discourse a<g ref="char:EOLhyphen"/>bout his Death. <hi>If by chance it were true that you have been poyson'd</hi> (continued he) <hi>who is it you would
+<pb n="29" facs="tcp:35817:16"/> suspect? It should not be your Sons, sure; though they doubtless, like Sons at Age to spend an Estate, heartily long'd to be absolute Masters of yours, and have often complained to their Friends, that you allowed them but four thousand Crowns a year for spend<g ref="char:EOLhyphen"/>ing Money, and that they could not keep one poor ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Sinner for their safer Recreation, but you immediate<g ref="char:EOLhyphen"/>ly conveyed her out of the way; though you at the same time allow'd your self the priviledge to have se<g ref="char:EOLhyphen"/>veral.</hi>
+            </p>
+            <p>Sir, <hi>said</hi> Louvois, in both re<g ref="char:EOLhyphen"/>spects I only follow'd your Maje<g ref="char:EOLhyphen"/>sty's laudable Example. For what better Model could I have propos'd to my self, than my Prince? I of<g ref="char:EOLhyphen"/>ten preach'd to them that the Ser<g ref="char:EOLhyphen"/>vant is not greater than his Master, and they like Dutiful Children, have shew'd themselves well satisfied with this. For which reason I do not be<g ref="char:EOLhyphen"/>lieve
+<pb n="30" facs="tcp:35817:17"/> they had any hand in my death.</p>
+            <p>
+               <hi>Should it not be then some of your Mistresses?</hi> said the King. <hi>A jea<g ref="char:EOLhyphen"/>lous Woman is a kind of a dangerous Animal, and Revenge is not a little customary among them, as poor</hi> Fon<g ref="char:EOLhyphen"/>tange <hi>found by woful experience. As I am told, you din'd that day with the Princess</hi> d'Epinoy, <hi>Madam</hi> de Sou<g ref="char:EOLhyphen"/>bize, <hi>and some other whose name I do not well remember.</hi>
+            </p>
+            <p>Had I gotten a Mistress among those Ladies, what would she have got by my death? <hi>said</hi> Louvois. By your Bounty I had Means to sa<g ref="char:EOLhyphen"/>tisfie them all: Gold is a powerful Friend, a prevailing Advocate, and a never failing Reconciler with the Sex: they lost too much by my death to imagine them the cause of it. How many Wives and Daughters, when they could not get Money of their Husbands or
+<pb n="31" facs="tcp:35817:17"/> Friends, or had broke themselves at play, were glad to find a Man that would lend upon Personal Se<g ref="char:EOLhyphen"/>curity, and not so much as require a Bond?</p>
+            <p>
+               <hi>Should it not be then some of your Servants,</hi> ask'd the King? <hi>Some of them were Foreigners, and Subjects to my Enemies, who might think by your death to change the whole face of Affairs, and favour their natural Princes.</hi>
+            </p>
+            <p>I can hardly believe it, <hi>said</hi> Lou<g ref="char:EOLhyphen"/>vois, for I always advanc'd their Fortunes; and the very lowest, when they once could get into my Service, flatter'd their hopes with no less than a Commission of Com<g ref="char:EOLhyphen"/>missary of War. 'Tis hard I should be poyson'd▪ M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thinks, that of all Deaths I deserv'd that the least; I ever disapprov'd that base method of destroying Men, and did not a little detest the Tragical end of
+<pb n="32" facs="tcp:35817:18"/> two Princes who have been barba<g ref="char:EOLhyphen"/>rously taken off that way some years ago, as also the Design which your Court has upon several others still alive, because they opposed your Interest. But, if I should suspect any of poysoning me, it should be your Madam <hi>de Maintenon</hi> by the Inducement of her Council of Con<g ref="char:EOLhyphen"/>cience.</p>
+            <p>
+               <hi>How? My good Lady</hi> de Main<g ref="char:EOLhyphen"/>tenon! cry'd the King. <hi>Ah!</hi> Lou<g ref="char:EOLhyphen"/>vois, <hi>speak with more moderation of a Woman whom I honour, and that seems to outvie even</hi> Mary Magda<g ref="char:EOLhyphen"/>len <hi>her self in acts of Piety, since she hath been advanc'd to my Bed.</hi>
+            </p>
+            <p>Sir, <hi>said</hi> Louvois, I come from a place where the greatest of your World are not those I have the most came to fear; we surly Infer<g ref="char:EOLhyphen"/>nal Beings have as little Complai<g ref="char:EOLhyphen"/>sance for Ladies as you Mortals have much; and your Right Reve<g ref="char:EOLhyphen"/>rend
+<pb n="33" facs="tcp:35817:18"/> Fathers of the Society are as little rever'd among us as they would be by a <hi>Geneva</hi> Crew, or an <hi>English</hi> Mobile: When once those Fathers tumble down into our Quarters, all their Intreagues, their Malice and Hypocrisie stays be<g ref="char:EOLhyphen"/>hind, and the blessed effect of their dark Deeds and easie condescending Morals is rewarded below, with a double share of our black Master's favour, that is, they are put to greater Torments than the rest.</p>
+            <p>
+               <hi>But why are you so uncharitable as to lay your Misfortune at my good Lady</hi> Maintenon<hi>'s door?</hi> said the King; <hi>she that minds nothing be<g ref="char:EOLhyphen"/>sides pleasing me and her prayers. Besides, I know that she hath caus'd a World of Masses to be said for the rest of your Soul, which doubtless must have done you much good.</hi>
+            </p>
+            <p>Oh! she is a pure one, <hi>said</hi> Louvois, and much like her Jesu<g ref="char:EOLhyphen"/>itick
+<pb n="34" facs="tcp:35817:19"/>
+               <hi>Privado's</hi> for Piety. I suspect her so much the more, as she hath been my profess'd Enemy ever since she had the good Fortune to find a place in your Majesty's Bed; she openly declar'd against me in fa<g ref="char:EOLhyphen"/>vour of <hi>Colbert</hi>'s Family; and not to flatter you, Sir, Father <hi>la Chaise</hi> and she having known that I had advis'd you to call back the <hi>Hugo<g ref="char:EOLhyphen"/>nots,</hi> for the good of your King<g ref="char:EOLhyphen"/>dom during this War, and not to delay it till your Enemies re-esta<g ref="char:EOLhyphen"/>blisht them there by their own Authority; I need not much en<g ref="char:EOLhyphen"/>quire for the Cause of a Disaster which hath been no less fatal to me, than to your Son-in-law the Prince <hi>de Conti.</hi>
+            </p>
+            <p>
+               <hi>What's that you say of my Cosin?</hi> said the King hastily.</p>
+            <p>How Sir? <hi>said</hi> Louvois, doth not your Majesty know, that as soon as you had been wrought up<g ref="char:EOLhyphen"/>on
+<pb n="35" facs="tcp:35817:19"/> by Father <hi>la Chaise</hi> to put into his hand an Order to cut off all the <hi>Hugonots</hi> in your Kingdom, after the Example of your Predecessor <hi>Charles</hi> IX<seg rend="sup">th</seg>, the Prince of <hi>Condé,</hi> who heard of it, (seeing that by this Action the remaining Honour of <hi>France</hi> would be altogether lost) went immediately to the Prince of <hi>Conti</hi> his Kinsman, who being your Son-in-law, he thought fitter to prevail with you to call back so bloody and detestable an Order; and disswaded your Majesty from so pernicious a Design? You can<g ref="char:EOLhyphen"/>not have forgot that you sent him to Father <hi>la Chaise,</hi> who like a ra<g ref="char:EOLhyphen"/>venous Wolf had seiz'd that hellish Commission with an extreme plea<g ref="char:EOLhyphen"/>sure, and would by no means give it back; though, the Prince having somewhat severely threatned him, he at last resign'd it into his hands, with a great deal of sorrow, and not
+<pb n="36" facs="tcp:35817:20"/> not without some angry Menaces. Accordingly, the kind Fathers did not forget him, for he did not live very long after it. Why should I imagine then that they have spar'd me more than they did that Prince: No, they doubtless sacrificed me to their merciless Resentments, and I very much fear, that if your Ma<g ref="char:EOLhyphen"/>jesty doth not make choice of ano<g ref="char:EOLhyphen"/>ther Council of Conscience, you will become the Politick Father's Tool, and wheadling <hi>Maintenon</hi>'s Bubble. I was amaz'd to hear, at my Arrival in the Infernal Regions, that your Scepter by little and lit<g ref="char:EOLhyphen"/>tle is dwindling into a Distaff. Ma<g ref="char:EOLhyphen"/>dam <hi>de Maintenon</hi> is all the talk there; little hump-back'd <hi>Scarron</hi> cannot tell what to think of it, he is amaz'd to hear what mighty Ho<g ref="char:EOLhyphen"/>nours you heap on his Widow; and esteems himself more honour'd by the Choice which your Majesty
+<pb n="37" facs="tcp:35817:20"/> hath made of her to share your Bed, and be your only Favourite to whom you unbosom your most important Secrets, than he would be by being the matchless Author of the <hi>Aeneis</hi> he burlesqu'd. He hath been complimented by the whole Infernal Court upon the Fra<g ref="char:EOLhyphen"/>ternity between him and your Ma<g ref="char:EOLhyphen"/>jesty. However, let your Majesty take heed, for Women are frail, and having generally a Venom hid within them, which none but those that try it can know, and being easily gain'd, like <hi>Dalilah</hi> by the <hi>Philisti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o betray <hi>Sampson,</hi> some<g ref="char:EOLhyphen"/>times they even ruin their Lovers and Benefactors.</p>
+            <p>
+               <hi>Not if they are as devout as she is,</hi> cry'd the King: <hi>Alas! good La<g ref="char:EOLhyphen"/>dy, she is a very Saint, even by the report of her Confessor. But no more of her; I have other things of importance to Discourse of with you.
+<pb n="38" facs="tcp:35817:21"/> I am in a sad perplexity on the side of the</hi> Alps: <hi>The Duke of</hi> Savoy <hi>with a powerful Army is marching up into</hi> Dauphiné, <hi>assisted by a Body of certain</hi> French Hugonots <hi>and</hi> Vaudois, <hi>and other Troops command<g ref="char:EOLhyphen"/>ed by one of the</hi> Schombergs, <hi>whilst poor</hi> Catinat, <hi>with a handful of Men is penn'd up in the Hills.</hi> Pignerol <hi>and</hi> Cazal <hi>are block'd up, the whole</hi> Dauphiné <hi>and</hi> Provence <hi>in an up<g ref="char:EOLhyphen"/>roar, and</hi> Lyons <hi>it self allarm'd. Those cursed</hi> Germans <hi>and</hi> Hussars <hi>who are with them, and have no more mercy on a French-man than the Devil hath on a Sinner, will make a dismal havock, if they proceed: I was much afraid of them last year, but happily through differences a<g ref="char:EOLhyphen"/>bout</hi> Punctilio's <hi>betwixt some great Officers, and their slow marches, they did me no great harm. I en<g ref="char:EOLhyphen"/>deavour'd to possess my self of</hi> Coni, <hi>to secure my self better against them,
+<pb n="39" facs="tcp:35817:21"/> but my Men had the misfortune to raise the Siege, by the brave Resi<g ref="char:EOLhyphen"/>stance if some</hi> French Hugonots <hi>and others that defended it. I must con<g ref="char:EOLhyphen"/>fess that this Miscarriage touch'd me to the quick.</hi>
+            </p>
+            <p>Without doubt, <hi>interrupted</hi> Lou<g ref="char:EOLhyphen"/>vois, it must needs have griev'd you so much the more, as, being us'd generally to take Towns with little resistance, it may be said that <hi>Coni,</hi> and <hi>Gironne</hi> in <hi>Catalonia,</hi> are the two only places that have baf<g ref="char:EOLhyphen"/>fled you. But since you are prest so hard, why do you not offer your Nephew of <hi>Savoy</hi> a Peace?</p>
+            <p>
+               <hi>I have,</hi> said the King, <hi>but with<g ref="char:EOLhyphen"/>out success: I us'd all the means I could think of to bring him to it. I have set the Pope about him, and have imploy'd</hi> Rebenac <hi>and many E<g ref="char:EOLhyphen"/>missaries towards all the Princes of</hi> Italy. <hi>I have even solicited the</hi> Suissers <hi>to ingage them in a Media<g ref="char:EOLhyphen"/>tion,
+<pb n="40" facs="tcp:35817:22"/> and notwithstanding all the Submissions I have us'd, have not been able to effect any thing.</hi>
+            </p>
+            <p>What if you should propose to him a Match between the Princess his Daughter and the Duke of <hi>Bur<g ref="char:EOLhyphen"/>gundy,</hi> said <hi>Louvois,</hi> so to have an opportunity to yield to him more honourably what you have taken from him? If you are not able to do better, offer him also <hi>Pigne<g ref="char:EOLhyphen"/>rol.</hi>
+            </p>
+            <p>
+               <hi>What would then become of</hi> Cazal? return'd the King; <hi>That place which I bought with ready Money of the Duke of</hi> Mantua; <hi>'twas you that bargain'd with him about it, to have a passage into</hi> It<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly.</p>
+            <p>I know it, <hi>said</hi> Louvois, but in an exigency a man might suffer a<g ref="char:EOLhyphen"/>nother to cut off his Arm, to save the rest of his Body. That Town is at a great distance from your Kingdom, costs you much to keep,
+<pb n="41" facs="tcp:35817:22"/> and you are lookt upon there as an incroaching Foreigner, so that with<g ref="char:EOLhyphen"/>out doubt all <hi>Italy,</hi> and the Pope himself would be infinitely pleas'd to see your Forces far enough from it.</p>
+            <p>
+               <hi>If ever I am oblig'd to yield it up,</hi> said the King, <hi>I will endeavour to bear that loss cheerfully, provided it procures me a Peace; otherwise I will defend it to the last extremity. But whenever I make Peace with the Duke of</hi> Savoy, <hi>I'll endeavour to exclude the Rascally</hi> Vaudois: <hi>they are a pack of Curs that have done me too much mischief to be left un<g ref="char:EOLhyphen"/>punished; for I may say that they have kill'd me more men then all the rest of the Confederates.</hi>
+            </p>
+            <p>Truly, <hi>said</hi> Louvois, you will find this more difficult then you i<g ref="char:EOLhyphen"/>magine; they are now the Duke's best Soldiers; and it is not to be believ'd that he will ever Sacrifice
+<pb n="42" facs="tcp:35817:23"/> them to your Majesty's Resent<g ref="char:EOLhyphen"/>ments. You had best leave those Curs, as you call them, in their Ken<g ref="char:EOLhyphen"/>nels. Father <hi>la Chaise</hi> and Madam <hi>Maintenon</hi> gave you a pernicious Counsel, when they perswaded you to cause those poor Fellows to be attack'd in their Valleys, where they did you no manner of harm: Since that time all <hi>Europe</hi> hath been upon your back.</p>
+            <p>
+               <hi>'Tis easie for you to talk thus,</hi> said the King, <hi>but difficult for me to fol<g ref="char:EOLhyphen"/>low your advice; for that beggerly Crew hath already destroy'd above twelve or fifteen thousand of my Men, and a great number of Officers, whom they us'd to shoot from their craggy Mountains as soon as ever they spy'd them</hi>
+            </p>
+            <p>And many more will be serv'd so by them, <hi>said</hi> Louvois; you see what Mischiefs false Zeal brings up<g ref="char:EOLhyphen"/>on you.</p>
+            <pb n="43" facs="tcp:35817:23"/>
+            <p>
+               <hi>Zeal, you may say,</hi> cry'd the King, <hi>but no false Zeal. When I sollicited the Duke of</hi> Savoy <hi>to pursue that People, and lent them my Missionary Dragoons to invade their Valleys, I did it because I look't upon them as the Original and Center of Heresie; for some would even make me be<g ref="char:EOLhyphen"/>lieve that Heresie has been planted there since the time of the Apostles; therefore I was fond of having the honour of Extirpating that old He<g ref="char:EOLhyphen"/>resie, by attacking it in its Nest and strongest hold.</hi>
+            </p>
+            <p>But, pray what Mission had your Majesty to do that, said <hi>Louvois;</hi> you have been wheedled into it I know, and those that pamper your Ambition have colour'd the busi<g ref="char:EOLhyphen"/>ness to you, and c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nceal'd the bad Consequences of it, just as they gild Pills, to have them swallow'd down without bitterness. Believe me, Sir, in our Sooty Regions Dis<g ref="char:EOLhyphen"/>simulation
+<pb n="44" facs="tcp:35817:24"/> and Flat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery are out of Doors. Banish out of your Pre<g ref="char:EOLhyphen"/>sence all those nauseous Panegyrists and flattering <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arasites, that poison you with ful<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m Praises; those fawning Sycophants and Low-spiri<g ref="char:EOLhyphen"/>ted Scatterers of incense which they sell and prostitute for a mean Re<g ref="char:EOLhyphen"/>ward, look on them only as a Band of dangerous <hi>Syrens,</hi> that progno<g ref="char:EOLhyphen"/>sticate to you nothing but Ruin, and whose pleasing Voice will at last cast you on some destroying Rock. Away with this presumptuous Va<g ref="char:EOLhyphen"/>nity, that makes you assume the Emblem and Prerog<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive of no less Universal a Monarch, than the Sun, with your <hi>Nec pluribus impar,</hi> as if, when <hi>Phaeton</hi>-like you set not only your Kingdom but the whole World on fire, it belong'd to you to pretend like that glorious and matchless Luminary to the Capaci<g ref="char:EOLhyphen"/>ty of Enlightning and Ruling more
+<pb n="45" facs="tcp:35817:24"/> Worlds than one. Lay down that hated Name of Great, it was ever fatal to those that assume it during their Life; remember that the Di<g ref="char:EOLhyphen"/>ctator <hi>Sylla</hi> chose rather to be Sir<g ref="char:EOLhyphen"/>nam'd <hi>The Happy,</hi> than <hi>The Great.</hi> And above all, forbear to molest your Subjects for their Religion, and take warning by <hi>Charles</hi> the IX. your Predecess<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. This I seri<g ref="char:EOLhyphen"/>ously advise you to do, being no more in a condition to flatter you. It had gone better with me now, had I not done it too much whilst I liv'd.</p>
+            <p>The King, who relish'd this Ad<g ref="char:EOLhyphen"/>vice no more than a thorow pac'd <hi>Debauché</hi> would like a Discourse of Repentance and Mortification, took an opportunity to ask the Ghost, <hi>How that Predecessor of his</hi> Charles <hi>the</hi> IX. <hi>far'd below,</hi> to put an end to the Ghosts unpleasant Admoni<g ref="char:EOLhyphen"/>tions.</p>
+            <pb n="46" facs="tcp:35817:25"/>
+            <p>Sir, <hi>reply'd the Ghost,</hi> Kings are not known among us by their num<g ref="char:EOLhyphen"/>ber, but by the most remarkable Actions of their Reign: For Ex<g ref="char:EOLhyphen"/>ample, this <hi>Charles</hi> you inquire about, and who below is strip'd of all distinctions of Royalty, is distin<g ref="char:EOLhyphen"/>guish'd by the Name of <hi>The Mur<g ref="char:EOLhyphen"/>therer,</hi> and as he delighted in blood, he is plac'd in an arm'd Chair fill'd with keen Daggers Points, where they continually pour down his Throat great quantities of corrup<g ref="char:EOLhyphen"/>ted Blood, and when the thirsty Wretch is gorg'd with it so, that he is ready to burst, they shoot him with Pistols and Muskets into the Belly, that so, having voided by his Wounds the blood which he had been forc'd to swallow, he may im<g ref="char:EOLhyphen"/>mediately be made to take in more, and thus his pain be everlasting.</p>
+            <pb n="47" facs="tcp:35817:25"/>
+            <p>
+               <hi>That's hard,</hi> said the King with a shrug; <hi>Poor Gentleman, I am hear<g ref="char:EOLhyphen"/>tily sorry for him: But pray, how doth my Grandfather</hi> Henry <hi>the</hi> IV. <hi>among you?</hi>
+            </p>
+            <p>As for your Grand-father, <hi>reply'd</hi> Louvois, I do not know him, but <hi>Henry</hi> the IV. is much better us'd than his Cosin <hi>Charles</hi> the IX. We know better things than to talk of your Genealogy there, for we have some very cunning People of all Nations, well skill'd in the Genea<g ref="char:EOLhyphen"/>logies of all the Families in the World, who would make it appear as clear as Noon-day to your Maje<g ref="char:EOLhyphen"/>sty, that there is not the least like<g ref="char:EOLhyphen"/>lyhood that you should be descend<g ref="char:EOLhyphen"/>ed of <hi>Henry</hi> the Great.</p>
+            <p>
+               <hi>Surely they can never be so impu<g ref="char:EOLhyphen"/>dent,</hi> said <hi>Lewis.</hi>
+            </p>
+            <p>Nay but they are, <hi>reply'd the Ghost,</hi> and a great deal more Impu<g ref="char:EOLhyphen"/>dence they have, I must tell you,
+<pb n="48" facs="tcp:35817:26"/> they are even so daring, as to assert that you are not so much as the Son of <hi>Lewis</hi> the XIII. and do it with so much assurance and subtilty, that your greatest Friends have not the least word to reply. They prove i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by the frailty of Women, by the im<g ref="char:EOLhyphen"/>potence of a certain Husband, and a thousand other Reasons and Stra<g ref="char:EOLhyphen"/>tagems, too long to be related now.</p>
+            <p>
+               <hi>How,</hi> cry'd the King angrily, <hi>can they offer to say that I am not my Father's Son? Can they deny that Queen</hi> Anne <hi>of</hi> Austria <hi>was my Mother? That I was born the fifth of</hi> September, <hi>in the Year</hi> 1638. <hi>during the Life of</hi> Lewis <hi>the</hi> XIII. <hi>my Fa<g ref="char:EOLhyphen"/>ther, who enjoy'd at that time his perfect health? That alone is an unque<g ref="char:EOLhyphen"/>stionable proof, and not to be contest<g ref="char:EOLhyphen"/>ed before any Tribunal, or Civilian in the World.</hi>
+            </p>
+            <pb n="49" facs="tcp:35817:26"/>
+            <p>Right, <hi>said</hi> Louvo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, before a <hi>Paris</hi>-Parliament, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> some such o<g ref="char:EOLhyphen"/>ther Jurisdiction, you might pass for as Legitimate as any Man; but below, where Civil or Cannon Law, <hi>Common Pleas</hi> or <hi>Chancery</hi> have as little Power as the Pope's Thunder<g ref="char:EOLhyphen"/>bolts over mis-believing <hi>Turks;</hi> never minding all those Quirks and formal Devices which we leave to you poor mislead Mortals the Bubbles of the Petifogging Tribe, we come to the Point, that is, Whether the thing be or not: For this rea<g ref="char:EOLhyphen"/>son, none troubles his Brain about his own Pedigree, nor Musters up a long train of doubtful Ancestors, which would not do him the least kindness, since every one is obli<g ref="char:EOLhyphen"/>ged to bear his own burthen; and were a Man sprung out of <hi>Jupiter</hi>'s Thigh, it would not entitle him to the least Prerogative over another, nor asswage the least part of his Tor<g ref="char:EOLhyphen"/>ments.</p>
+            <pb n="50" facs="tcp:35817:27"/>
+            <p>
+               <hi>I should s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nothing to your Genea<g ref="char:EOLhyphen"/>logists,</hi> said the King, <hi>were they on<g ref="char:EOLhyphen"/>ly disputing about a Prince of</hi> Con<g ref="char:EOLhyphen"/>dé, <hi>who pop't into the World some thirteen Months after his Father's decease. Had I thus lagg'd behind three or four Months, something in<g ref="char:EOLhyphen"/>deed might be said; but to call a Man's Legitimacy into question, who was born whilst his father liv'd, is altogether unsufferable, and the most litigious Imp of the Law, the most censorious Fomenter of Doubts and Disputes would blush to hear it ar<g ref="char:EOLhyphen"/>gued. But let us leave the Dead a<g ref="char:EOLhyphen"/>lone, and forbear to disturb their Ashes. I have things of greater moment to talk of. The Reduction of</hi> Ireland <hi>hath brought a Deluge of Troubles upon me.</hi>
+            </p>
+            <p>I have heard, <hi>said</hi> Louvois, of your ill Success on that side by the ar<g ref="char:EOLhyphen"/>rival of St. <hi>Ruth</hi> and a v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t num<g ref="char:EOLhyphen"/>ber of others from thence; and in<g ref="char:EOLhyphen"/>deed,
+<pb n="51" facs="tcp:35817:27"/> I expected no better when I saw King <hi>James</hi> come sneaking back, after he had bravely run a<g ref="char:EOLhyphen"/>way, even before his Enemies had well pass'd the <hi>Boyn,</hi> and left his Competitor Master of the Field, and consequently of the Kingdom. I had so little hopes of any good Success on that side, that I only sent there such Men as I wanted to be rid of; for had I thought that there would be any Glory gain'd in the Expedition, the Count <hi>de Lauzun</hi> should have been the last Man I would have sent there: I had no such kindness for him to procure him so considerable an advantage, as is that of being the Deliverer of a Kingdom. I never promis'd to my self another end than that of gaining Time, to ena<g ref="char:EOLhyphen"/>ble your Majesty to maintain your self the better in <hi>Flanders</hi> in the mean while, and to bring your E<g ref="char:EOLhyphen"/>nemies,
+<pb n="52" facs="tcp:35817:28"/> tired by the length and te<g ref="char:EOLhyphen"/>diousness of the War, to sue for a Peace.</p>
+            <p>
+               <hi>That short space of time hath cost me very dear,</hi> said the King: <hi>For I reckon that</hi> Ireland <hi>hath been to me another</hi> Messina. <hi>I begin to be of the mind of those who say, that it is always of bad consequence to con<g ref="char:EOLhyphen"/>cern our selves with other Men's af<g ref="char:EOLhyphen"/>fairs; for after all, what have I got by both? I have drain'd my King<g ref="char:EOLhyphen"/>dom of Men and Money for both those places, and have nothing left of them: Nay, the Troubles of</hi> Messina <hi>have only serv'd to settle and strength<g ref="char:EOLhyphen"/>en there for the future the King of</hi> Spain<hi>'s Authority, as those of</hi> Ireland <hi>have added to the Prince of</hi> O<g ref="char:EOLhyphen"/>range<hi>'s Glory; not to speak of</hi> Hun<g ref="char:EOLhyphen"/>gary, <hi>which costs me as much at least, and the worst is, that I am forc'd to be as it were Count</hi> Teckely<hi>'s Tributa<g ref="char:EOLhyphen"/>ry, and send him continual Supplies
+<pb n="53" facs="tcp:35817:28"/> of Money, lest he make his Peace with the Emperour. But what troubles me more, is the thoughts of being forc'd to dismiss that Ʋnfortunate Royal Couple, who owe their Misfor<g ref="char:EOLhyphen"/>tune chiefly to me; though, after all, should I banish them, it would not be the first time that I have serv'd one of them so.</hi>
+            </p>
+            <p>You have to do with an Enemy so generous, <hi>said</hi> Louvois, that it is very likely he will not desire you to do it.</p>
+            <p>
+               <hi>I must do him the justice to say,</hi> said the King, <hi>that he behav'd him<g ref="char:EOLhyphen"/>self very generously and justly after the taking of</hi> Lymerick; <hi>for though the Articles were very advantageous to the besieged, he hath caused them to be religiously observed. But pray, what says St.</hi> Ruth <hi>of his ill chance?</hi>
+            </p>
+            <p>His greatest grief, <hi>reply'd</hi> Lou<g ref="char:EOLhyphen"/>vois, is to have fall'n by the hands of his mortal Enemies the <hi>Hugonots.</hi>
+               <pb n="54" facs="tcp:35817:29"/> He is so inrag'd at it, that he foams and raves, and hath importun'd the Prince of Darkness to give him leave to ascend into this World, though it were but to torment them with his Ghost; but he hath found him another Imployment: Seeing him so furious, that he may make use of his Courage, some Infernal Dragons are set against him, who continually vomit Fire and Sulphur upon him, so that he is doom'd to a warmer Ingagement than he could wish.</p>
+            <p>
+               <hi>I pity him with all my heart,</hi> said <hi>Lewis, for whatever he did against the</hi> Hugonots <hi>was by my orders; and for my part, having pass'd my word to the Queen, I could not go back. The Fathers of the Society have been mighty sorry for his loss, for he was so much their Friend, that when all my other Officers refus'd to under<g ref="char:EOLhyphen"/>take that Booted Mission, which was
+<pb n="55" facs="tcp:35817:29"/> to Convert at once near two Millions of Hereticks, he undertook and per<g ref="char:EOLhyphen"/>formed it to a miracle. He was a<g ref="char:EOLhyphen"/>nother kind of Man than your Mar<g ref="char:EOLhyphen"/>quiss</hi> D'Uxelles, <hi>of whom, by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> way, I have had but too much cause to complain. As much a Brute as he is, at your recommendation I made him a Lieutenant-General, which he had not yet deserv'd. But</hi> Catinat, <hi>as much an Hermit as he is, hath gi<g ref="char:EOLhyphen"/>ven me much more satisfaction. You may remember, that when I propos'd to you to make use of him on the side of</hi> Italy, <hi>you told me that you had no good Opinion of a Monk who had cast off his Cowle: But I told you that he was not so much an Hermit as you took him for; and that if he had formerly travell'd into</hi> Italy <hi>in the habit of an Hermit, it was to insinuate himself the better into all the Courts, well knowing that of all Coats that of a Monk is the fit<g ref="char:EOLhyphen"/>test
+<pb n="56" facs="tcp:35817:30"/> to hide an Intreague of any kind. Accordingly he informed me of many things that have oblig'd me after<g ref="char:EOLhyphen"/>wards to make choice of him to head my Army in</hi> Piedmont, <hi>where he has done me such good Service, that I reserve for him a Marshal of</hi> France<hi>'s Staff.</hi>
+            </p>
+            <p>What, said <hi>Louvois,</hi> for his over<g ref="char:EOLhyphen"/>sight in suffering the Duke of <hi>Savoy</hi> and <hi>Schomberg</hi> to march up to <hi>Em<g ref="char:EOLhyphen"/>brun</hi> and ravage <hi>Provence</hi> and <hi>Dau<g ref="char:EOLhyphen"/>phiné,</hi> whilst he being fool'd by the Duke's making a shew of Besieging <hi>Pignerol,</hi> hath let him pass by? Sure your Pensioners and Spies were a<g ref="char:EOLhyphen"/>sleep when this was projected, that they gave him no notice of it, as they formerly used. What do you intend to do in this Case? I hear that the new Converts flock to the Enemy's Camp already, and when<g ref="char:EOLhyphen"/>ever the other, <hi>Schomberg</hi> with an Army of resolute <hi>English,</hi> Land in<g ref="char:EOLhyphen"/>to
+<pb n="57" facs="tcp:35817:30"/> your Kingdom with Arms for your mis-us'd Subjects, I fear that it will be much worse.</p>
+            <p>
+               <hi>I will send the Arriereban and Militia against them, and Detach<g ref="char:EOLhyphen"/>ments from my Army in</hi> Flanders, said the King.</p>
+            <p>That is, when you may spare them, <hi>reply'd</hi> Louvois; and as for your Arriereban and Militia, I fancy they will have no great heart to fight for you. To convince you of it, I'll relate to you a Tale which <hi>Esop</hi> apply'd to your Case t'other day whilst, with his likeness <hi>Scar<g ref="char:EOLhyphen"/>ron,</hi> we were arguing that Case to<g ref="char:EOLhyphen"/>gether below.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="fable">
+                        <head>The Ass and his Master. <hi>A Fable.</hi>
+                        </head>
+                        <p>In the Time of <hi>Balaam</hi>'s Ass, when that grave Cattel spoke better Sense then many Men do now-a-days, a certain Ill-natur'd griping Fellow
+<pb n="58" facs="tcp:35817:31"/> was trudging on with his Ass, as heavy laden with Goods as he him<g ref="char:EOLhyphen"/>self was with sins. The poor drudg<g ref="char:EOLhyphen"/>ing Devil was as lean as a rake, ha<g ref="char:EOLhyphen"/>ving hardly such a pittance of Straw allow'd him as would keep Life and Soul together; yet at the same time the hard-hearted Tyrant had the Conscience to lay him on with Crab-tree, as if poor <hi>Grizles</hi> skin had already been fitted to a Kettle Drum. As the Ass made the best of his way, according to the Poli<g ref="char:EOLhyphen"/>tick Maxim of all his considerate kind, and doubled his pace as his Master had his Load and Manual kindness, the sooner to be rid of both, his Driver perceiv'd some E<g ref="char:EOLhyphen"/>nemies coming, and thump'd and goaded him on so unmercifully, that at last down tumbles Pack and Beast. You need not ask if the other press'd him to rise: <hi>Dost thou not see those Men that are coming
+<pb n="59" facs="tcp:35817:31"/> upon us,</hi> said he, <hi>thou dull Lady Jade? Come rise and be damn'd, that we may get out of their Clutches. Not I,</hi> reply'd the Animal with his usual gravity; <hi>I am not the Ass you take me for; I'll not budge a foot; 'tis twenty to one they'l ease me of my Burthen, and at least I am sure they can never load me more.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus misused Subjects generally desert their Tyrannical Masters as soon as they see the least opportuni<g ref="char:EOLhyphen"/>ty to be freed from their Slavery; and chiefly the Poor, who having nothing to lose, may well better, but can never impair their Fortunes by a Revolution.</p>
+            <p>How then, <hi>continued</hi> Louvois, can you trust your Militia and Arriere<g ref="char:EOLhyphen"/>ban, principally those of the Neigh<g ref="char:EOLhyphen"/>bourhood of <hi>Provence, Dauphiné,</hi> and <hi>Languedoc,</hi> a great part of whom are <hi>Hugonots</hi> in their hearts, and have been forc'd with all the Bar<g ref="char:EOLhyphen"/>barity
+<pb n="60" facs="tcp:35817:32"/> imaginable, to abjure their Opinions, and been treated, notwith<g ref="char:EOLhyphen"/>standing their compliance, with the utmost Severity ever since? You cannot spare any Men out of your Army on the <hi>Rhyne,</hi> all they can do is to move from place to place un<g ref="char:EOLhyphen"/>der the Cover of <hi>Philipsbourgh,</hi> or so, to secure themselves from the two Armies commanded by the <hi>Landgrave</hi> of <hi>Hesse,</hi> and the <hi>Mar<g ref="char:EOLhyphen"/>grave</hi> of <hi>Bareith:</hi> you know that all the Detachments which you sent after the Reduction of <hi>Namur</hi> are hardly able to make the Scales even there; and now that your Friend <hi>Schoningh</hi> is found out, and like to be severely punish'd, the Elector of <hi>Saxony</hi> being no more prepossest, and likely to joyn his Forces to theirs, you will be press'd as hard on that side as you are in <hi>Flanders.</hi> You see what 22 Battalions of the Enemy have done against 45 of
+<pb n="61" facs="tcp:35817:32"/> yours: you know very well that their Foot is better than yours; and since <hi>Luxemburgh</hi> is forc'd to keep himself close within his Trenches and strengthen his Camp every day, how can he send away any of his Men? You will find that the Ar<g ref="char:EOLhyphen"/>my that faces him will one day or other, either force him to fight, or take some Town before his face, and perhaps that very Town which you are so proud for having taken, and which has given occasion to the Motto of your Medal,
+<q>Amat Victoria Testes.</q> When the News of that Motto came to us, <hi>Scarron,</hi> whose Widow your dear <hi>Maintenon</hi> is nam'd <hi>Victoria,</hi> could not forbear saying that it was very true in one sense, and as he hop'd, referr'd at present only to your Majesty's Amour, but that
+<pb n="62" facs="tcp:35817:33"/> your Enemies could as lawfully ap<g ref="char:EOLhyphen"/>ply it to their Victory at Sea, and the burning your Ships on your own Shoar in the sight of K. <hi>James,</hi> and the Army that was Incamp'd there, as you do to <hi>Namur.</hi> Ano<g ref="char:EOLhyphen"/>ther, who doubtless was no great well-wisher to your Interest, said, That a Sun just set in the Western Ocean, and only visible by Refra<g ref="char:EOLhyphen"/>ction, with this single word <hi>Occu<g ref="char:EOLhyphen"/>buit,</hi> would be a more proper De<g ref="char:EOLhyphen"/>vise to mark the Fate of your Ad<g ref="char:EOLhyphen"/>miral and Fleet at a Western Point of your Kingdom, and might also be applicable to you, who take the Sun for your Emblem; for whatever we may say, he pretends that you are already down, and through prejudice only for a while seem bigger than before, as the Sun doth when he sets in the Horizon. For my part, I cannot deny that he is partly in the right; neither do I
+<pb n="63" facs="tcp:35817:33"/> see how you can hold out any lon<g ref="char:EOLhyphen"/>ger. Whilst you was only prest hard on the side of <hi>Flanders,</hi> the Danger, though great, was nothing near so considerable as now that you are storm'd on all sides; the worst was the likelyhood of losing some Town, for you have always wisely avoided a Battel, and you see by the late Brush, how your Ar<g ref="char:EOLhyphen"/>my would be mawl'd, should it come to a fair push with that of the Enemy. Your loss hath been great<g ref="char:EOLhyphen"/>er than theirs, notwithstanding the odds were on your side, and the officious Spies you had near his Highness of <hi>Bavaria</hi>'s Person, who gave you warning to strengthen your Avenues, for which one of your Intelligencers hath been re<g ref="char:EOLhyphen"/>warded since with a Rope. The many Officers you have lost, and principally those of the Houshold, occasion doubtless a great noise at
+<pb n="64" facs="tcp:35817:34"/> your Court, and more than if double the number of others had been cut off, Well, there is now no help for't: But do not forget that you had better lose five or six Towns than one Battel. My reason for it is, That in all likelyhood, when<g ref="char:EOLhyphen"/>ever your Enemies come to a Peace with you, you will be oblig'd to make them full Restitution of the Provinces and Towns of which you have possess'd your self; so that in the main, the loss of some of them, before a Peace, can be of no such consequence. But the loss of a Battel would draw many Towns, and perhaps Provinces after it, and precipitate your ruin. The Chief thing, is to gain time; for if it hap<g ref="char:EOLhyphen"/>pen that some of the Confederates die, or some differences divide them, or that being tired with the length and charge of the War, they —</p>
+            <pb n="65" facs="tcp:35817:34"/>
+            <p>
+               <hi>I have not forgot,</hi> said the King interrupting him, <hi>the Precepts which the good old Cardinal</hi> Mazarine <hi>us'd to give me: To allay the heat of my youth, he often repeated to me these words in his own Native Lan<g ref="char:EOLhyphen"/>guage,</hi> Figliol mio, chi quadagna tempo guadagna molto, <hi>Son he who gains time, gains much; and now I find that he was in the right. Before my Enemies are ready, I generally snap one Town or other, and that is all I can do, which after all makes a greater noise than it doth me good; for those Expeditions cost me migh<g ref="char:EOLhyphen"/>ty dear, what with bribing Officers, Pensioners, Spies, then Magazines for Forage and Ammunition, and all Military Preparations, besides the loss of Officers and Soldiers; so that if I find that I have some Towns more, I also find that I have ma<g ref="char:EOLhyphen"/>ny thousands of Subjects, and millions of Money less in my Kingdom. The
+<pb n="66" facs="tcp:35817:35"/> worst is, that if I took on still one Town each year for ten years toge<g ref="char:EOLhyphen"/>ther, which is the utmost of my desire or expectation, I should not be much more forwards than I am; and ha<g ref="char:EOLhyphen"/>ving little or no Trade abroad, whilst my Enemies carry theirs on with little Interruption, I fear I shall exhaust my Kingdom of Men and Money in ta<g ref="char:EOLhyphen"/>king Towns, and then be forc'd to re<g ref="char:EOLhyphen"/>sign them up at last for want of Means to push on the War; which would break my heart: Therefore I am not more idle in Winter then du<g ref="char:EOLhyphen"/>ring the Spring; the cold Season is as it were the Mother of Negotiati<g ref="char:EOLhyphen"/>ons; so if I can but keep out my E<g ref="char:EOLhyphen"/>nemies till the next, I will set so many Engines at work, that some good must come of them at last: for hitherto I must confess I have done little, or to speak more properly, no<g ref="char:EOLhyphen"/>thing at all that way, though I have Ministers in all the Northern and</hi>
+               <pb n="67" facs="tcp:35817:35"/> Italian <hi>Courts who keep the Neutra<g ref="char:EOLhyphen"/>lity, and even Emissaries and Pensi<g ref="char:EOLhyphen"/>oners in the Courts of all my Ene<g ref="char:EOLhyphen"/>mies. In vain I make a noise at</hi> Rome, <hi>and cry that the P. of</hi> Orange <hi>is the Head of the</hi> Hugonots, <hi>and hath a design to establish his Heresie eve<g ref="char:EOLhyphen"/>ry where, no body will hear me, and for my part, I verily believe he hath as many Friends in the Colledge of Cardinals as I have. The Cardinals that are in my Interest are opposed by the</hi> German <hi>and</hi> Spanish <hi>Cardi<g ref="char:EOLhyphen"/>nals, and no less by the</hi> Italians. <hi>So I cannot oblige them to constrain the Duke of</hi> Savoy <hi>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cept of a Peace, though I <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant him advantageous <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>You do well, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Louvois, for you must take <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>st whilst you strive to gain wi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>out, you lose within your Kin<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om. I am satis<g ref="char:EOLhyphen"/>fied that a good part of your Sub<g ref="char:EOLhyphen"/>jects are discontented, and being
+<pb n="68" facs="tcp:35817:36"/> made desperate by the heavy Pres<g ref="char:EOLhyphen"/>sures under which they have groan'd since your Reign, are ripe for a Revolution, principally now they see themselves likely to be back'd by those powerful. Enemies that press so hard at your Doors. If an inward fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be once kindled, it will spread from Province to Pro<g ref="char:EOLhyphen"/>vince in a short time, and all your Art and Power will never prevail to quench it.</p>
+            <p>
+               <hi>What must I do then to prevent it,</hi> said the King.</p>
+            <p>You must, <hi>reply'd</hi> Louvois, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egin with offering to restore all things in the state they were in immediately after the Peace of <hi>Nimeghen,</hi> and if that will not do, you must go back as far as the <hi>Pyrenean</hi> Treaty.</p>
+            <p>
+               <hi>I had rather lose my Crown alto<g ref="char:EOLhyphen"/>gether,</hi> cry'd the King, <hi>than make such inglorious offers.</hi>
+            </p>
+            <pb n="69" facs="tcp:35817:36"/>
+            <p>A Crown is a very precious and charming Jewel, <hi>return'd</hi> Louvois, and ought never to be laid down, but with our Life; a King that hath lost his Kingdom makes a very odd Figure wherever he goes. Take warning by that unfortunate Prince now at your Court, and do but ob<g ref="char:EOLhyphen"/>serve how he is look't upon in <hi>France;</hi> did not your Majesty cause him to be respected, few Peo<g ref="char:EOLhyphen"/>ple would have that Consideration for him which they shew, and it would go much worse with him, if he were once oblig'd to leave your Kingdom by a Peace. I am sensible that the thoughts of giving back must needs be very displeasing to you, who have been always us'd to take: But differing Times bring different Events, and as I told you, it is sometimes convenient to lose a Leg or an Arm to save the rest. Your Predecessors <hi>Henry</hi> the IV.
+<pb n="70" facs="tcp:35817:37"/> and <hi>Lewis</hi> the XIII. were neither less Kings of <hi>France,</hi> nor less happy, though they never possess'd what your Majesty hath conquer'd since. One thing you may do, if your E<g ref="char:EOLhyphen"/>nemies will be satisfied with it, that is, you must, as Mariners do in the midst of a Storm, promise much and perform little, according to the <hi>Italian</hi> Proverb, <hi>El pericolo passato è gabato el Santo.</hi>
+            </p>
+            <q>
+               <l>When Ruin is nigh,</l>
+               <l>We whine and we cry,</l>
+               <l>And swear we'll be rul'd by Religion:</l>
+               <l>But no sooner all's well</l>
+               <l>Then once more we rebel,</l>
+               <l>And think him that turns godly a Widgeon.</l>
+            </q>
+            <p>
+               <hi>This might have done something formerly,</hi> said the King, <hi>but now that Coin will not pass currant with my Enemies, and I am very much
+<pb n="71" facs="tcp:35817:37"/> afraid that I shall hereafter be forc'd to keep my word; at least, they are indeavouring, as much as they can, to bring me to such a Condition, that I shall not be able to break it with Impunity. Cardinal</hi> Mazarin, <hi>how<g ref="char:EOLhyphen"/>ever, always advis'd me</hi> not to be a slave to my word, <hi>telling me, That to keep it was the part of a private Man, but that a Prince ought never to go by any other Rule then his Inter<g ref="char:EOLhyphen"/>est. I wish the old crafty Politician were now alive, to see how he would bring me off with all his Cunning. He us'd to say, that he had always</hi> una rouza, <hi>a Stratagem, by him, as a hiddden reserve to help him off at a dead lift; I am sure I never want<g ref="char:EOLhyphen"/>ed it more than now, I would make use of it against that stubborn Boy the Duke of</hi> Savoy; <hi>for nothing touches me more to the quick, then that he whom I had at my beck but t'other day, should not only make
+<pb n="72" facs="tcp:35817:38"/> Head now against me, but have the Impudence to enter into my Territo<g ref="char:EOLhyphen"/>ries in an Hostile manner.</hi>
+            </p>
+            <p>I believe, <hi>reply'd</hi> Louvois, that it doth not a little grieve you, to see that a Duke of <hi>Savoy</hi> should Invade the Kingdom of <hi>France</hi> in the vi<g ref="char:EOLhyphen"/>ctorious Reign of <hi>Louis le Grand.</hi> I must confess that it is a piece of mor<g ref="char:EOLhyphen"/>tification that goes very near your Majesty's heart. But you must re<g ref="char:EOLhyphen"/>member that formerly you spoke in as contemptible terms of the Prince of <hi>Orange;</hi> yet now he is become a powerful King; he is the Soul of the whole Party, and puts all the Members of that great Body into Motion: At the <hi>Alps,</hi> at the <hi>Pyre<g ref="char:EOLhyphen"/>nean</hi> Mountains, in <hi>Flanders,</hi> on the <hi>Rhine,</hi> at Sea, every where you feel the effect of his Arms, or that of his Councils, since all your Ene<g ref="char:EOLhyphen"/>mies, by their deference to him, seem rather to follow his Dictates
+<pb n="73" facs="tcp:35817:38"/> Dictates than their own; and I am afraid that the Ruins of the Citadel of <hi>Orange</hi> will, sooner than you i<g ref="char:EOLhyphen"/>magine, give him an opportunity to build up a new One there out of those of yours which he shall de<g ref="char:EOLhyphen"/>molish.</p>
+            <p>
+               <hi>I'le take care to prevent all this, one way or other,</hi> said the King.</p>
+            <p>Why do you not then immedi<g ref="char:EOLhyphen"/>ately go about it? <hi>ask'd</hi> Louvois.</p>
+            <p>
+               <hi>I stay,</hi> said the King, <hi>till the Confederates beg of me to make a Peace, and then you shall see what I'le do.</hi>
+            </p>
+            <p>I am afraid you must stay long then, <hi>said</hi> Louvois: But what if you are forc'd to ask a Peace your self?</p>
+            <p>
+               <hi>That's impossible,</hi> said the King; <hi>but if I was reduc'd to it, then fare<g ref="char:EOLhyphen"/>wel my Name of</hi> Le Grand.</p>
+            <p>We have seen stranger things then that, <hi>said</hi> Louvois, witness the late Revolution in <hi>England.</hi>
+            </p>
+            <pb n="74" facs="tcp:35817:39"/>
+            <p>
+               <hi>It is no such difficult matter,</hi> said the King, <hi>for a Prince to possess him<g ref="char:EOLhyphen"/>self of a Kingdom, when most of the Nobility, Clergy, and Commons of it declare for him, and the Army that was to defend it comes in to him; at that time also, as it were to favour him, you engaged me in the Siege of</hi> Philipsburgh, <hi>instead of marching with my Army directly against the</hi> States General.</p>
+            <p>As for the Siege of <hi>Philipsburgh, reply'd</hi> Louvois, the <hi>Dauphin</hi>'s Ho<g ref="char:EOLhyphen"/>nour lay at stake there, so it was absolutely necessary to take that Town. Do not blame me there<g ref="char:EOLhyphen"/>fore for the business of <hi>England,</hi> but rather your Ally, whose Nose bled as soon as the Prince approach'd, and who afterwards left the King<g ref="char:EOLhyphen"/>dom without trying the last Event, as he also did in <hi>Ireland.</hi>
+            </p>
+            <pb n="75" facs="tcp:35817:39"/>
+            <p>
+               <hi>What would you have had that good Prince to have done,</hi> said the King; <hi>could he withstand his Dome<g ref="char:EOLhyphen"/>stick and Foreign Enemies alone?</hi>
+            </p>
+            <p>Do you then, <hi>said</hi> Louvois, rec<g ref="char:EOLhyphen"/>kon the Count <hi>de Lauzun,</hi> and the Ten thousand <hi>French</hi> you had sent him, to be no body? Truly, had he ever shew'd any great Love to his Son-in-law, one would have thought he had left him in possession of the Land out of kindness; but we are convinc'd of the contrary by his former pious intent which made him seek means to steal away the Prince's loving Consort, to bestow her <hi>Nolens volens</hi> on the Dauphin, of which Intreague you cannot be ignorant, since you had a share in the management. Neither are we ignorant of the whole business of the pretended Prince of <hi>Wales.</hi> The worst is, that with his Crown the Abdicated Prince hath also lost his
+<pb n="76" facs="tcp:35817:40"/> Title of King of <hi>France,</hi> which is devolv'd to his Successor.</p>
+            <p>
+               <hi>As for that superannuated Title,</hi> said the King, <hi>I have bought it of the Prince who pretended to have it; and though I cannot but say that the Expences which I have been at for him in</hi> Ireland, <hi>have perhaps over<g ref="char:EOLhyphen"/>paid it, yet I am glad to have that Thorn out of my Foot, that these mad</hi> English <hi>may not have a pretence for troubling me, nor my Successors, as they have done my Predecessors. As for King</hi> James, <hi>had not my Fleet met with that Disaster, which obliges it to keep at home for a while, I would have perhaps set him on his Throne: But all in good time; he tells me that he has a great Party still that works under-hand for his Restora<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>They make him and you believe so, on purpose to perswade you to protect him and his House, and the
+<pb n="77" facs="tcp:35817:40"/> Jesuits do it to get Money from you, under pretence of fomenting Divi<g ref="char:EOLhyphen"/>sions in the three Kingdoms, and widening the Differences among the People in Formalities and Puncti<g ref="char:EOLhyphen"/>lio's of Belief, wherein indeed some of them have been forme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly success<g ref="char:EOLhyphen"/>ful enough. But I am afraid that many of those that fed you and him with the hop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of a great Par<g ref="char:EOLhyphen"/>ty's appearing for him, would have deceiv'd you as much as 'tis said some of the Officers of their Fleet did, and that if they had met your Men, it would have been only to cut them to pieces, as others of their Nation have done lately in <hi>Flanders.</hi> However, I must needs own that it was politickly done to send that Prince to Invade <hi>England;</hi> for in the first place, though you did not foresee any likelyhood of settling him there again, yet you was in hopes to create a Civil War
+<pb n="78" facs="tcp:35817:41"/> there, or at least to keep the <hi>English</hi> from invading you, which you can now by no means avoid, and is the most dreadful Storm that ever threatned you with Shipwrack; and in the next, you could not more handsomly rid your self of that un<g ref="char:EOLhyphen"/>fortunate Gentleman who seems to have brought his ill Fortune along with him into your Kingdom, which before his coming was in a much better Condition. But pray suffer your self no longer to be imposed upon by such as give you an ac<g ref="char:EOLhyphen"/>count of the strength of the <hi>Jaco<g ref="char:EOLhyphen"/>bites</hi> in <hi>Great Britain.</hi> When you was Master at Sea two Summers a<g ref="char:EOLhyphen"/>go, and your Fleet lay a long time plundering Sheep on the Coast of <hi>England,</hi> the <hi>Dutch</hi> beaten in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> and the Prince of <hi>Orange</hi> in <hi>Ireland,</hi> oppos'd by a powerful Ar<g ref="char:EOLhyphen"/>my, and his Competitor there; that Party which you tell me is so great,
+<pb n="79" facs="tcp:35817:41"/> had not the Courage to make the least Motion; which made me be<g ref="char:EOLhyphen"/>lieve ever since that they, like some barking toothless Curs, may make a noise, but cannot bite; of which the Prince of <hi>Orange</hi> is so well con<g ref="char:EOLhyphen"/>vinc'd, that I am inform'd that he hardly takes any notice of them, but lets them spin on their own Rope. The People of <hi>Great Britain</hi> are so happy under his Government, that as they chose him, so they main<g ref="char:EOLhyphen"/>tain his and their Right. You see he can leave that Kingdom when he pleases, to cross the Seas, secur'd in his Royal Consort's wise Conduct, and their Subjects Love. I am only afraid that your People, considering how happy those three neighbour<g ref="char:EOLhyphen"/>ing Kingdoms have made themselves by the late Revolution there, will take a resolution to imitate them, and put themselves at Liberty in this Juncture of Time.</p>
+            <pb n="80" facs="tcp:35817:42"/>
+            <p>
+               <hi>There is a great difference between my Subjects and the</hi> English, said the King.</p>
+            <p>All the difference I can see be<g ref="char:EOLhyphen"/>tween them, <hi>reply'd</hi> Louvois, is that your Subjects are almost ruin'd al<g ref="char:EOLhyphen"/>ready, and can hardly stir in the miserable state they are in; whereas the <hi>English</hi> freed themselves before they were in that case; you may flatter your self, if you please, but 'tis my opinion that there is hardly any one of your Subjects but wish<g ref="char:EOLhyphen"/>es to be in the same state as the <hi>English,</hi> and envies their happiness: I will not even exclude out of that number the best part of your Cler<g ref="char:EOLhyphen"/>gy; so that you are in great dan<g ref="char:EOLhyphen"/>ger of seeing a dangerous Catastro<g ref="char:EOLhyphen"/>phe upon the loss of a Battel, or the Landing of the <hi>English.</hi>
+            </p>
+            <p>
+               <hi>Ah! dear</hi> Louvois, said <hi>Lewis</hi> sha<g ref="char:EOLhyphen"/>king his Head, <hi>I fear it but too much as well as you, I sent for you chiefly
+<pb n="81" facs="tcp:35817:42"/> on that account. What shall I do? I fear that the loss of my Fleet will at last prove that of my Kingdom. Did I but know also, where they intend to come, I would send there the most trusty of my Forces, and strive to keep them out. Pray give me your Opinion concerning the place where you think they will land?</hi>
+            </p>
+            <p>That's very uncertain, <hi>reply'd</hi> Louvois; 'tis a long Coast from <hi>Ostend</hi> or <hi>Nieuport</hi> to <hi>Fontarabia, St. Sebastian,</hi> or <hi>St. John de Luz;</hi> and there are but too many landing places from the first of those Towns to the last: 'Tis twenty to one, but that when you expect them in one place, they will fall upon you in a<g ref="char:EOLhyphen"/>nother, just as the Prince of <hi>Orange</hi> did when he landed in <hi>England.</hi> I do not wonder to see you puz'led about it, your Pensioners know doubtless no more where it must be, than they did of the other.</p>
+            <pb n="82" facs="tcp:35817:43"/>
+            <p>
+               <hi>Suppose,</hi> said the King, <hi>it were at</hi> Ostend <hi>or</hi> Nieuport, <hi>so to attack</hi> Dunkirk <hi>by Land and Sea? They might land at those places without op<g ref="char:EOLhyphen"/>position, and 'tis but a days march thence to</hi> Dunkirk; <hi>the Fortifications of that Town are more for shew, in<g ref="char:EOLhyphen"/>deed, than Service, for, being built on the Downs, they want solidity, and would soon be shaken by great Cannon; there are all about that Town large Meadows to forage in for the Horse of the Army, which could soon joyn the Forces they have to land. The</hi> Eng<g ref="char:EOLhyphen"/>lish <hi>also formerly help'd to take that Town, which would be of vast use to them; so that as they are heartily sorry that it was sold to me, there is no doubt but they would use their ut<g ref="char:EOLhyphen"/>most Endeavours to be Masters of it again, for the security of their Trade from the Privateers, and a Gate into</hi> France <hi>and</hi> Flanders.</p>
+            <pb n="83" facs="tcp:35817:43"/>
+            <p>Your Majesty, <hi>said</hi> Louvois, ha<g ref="char:EOLhyphen"/>ving a considerable Army on that side, which might partly prevent the <hi>French</hi> Malecontents from co<g ref="char:EOLhyphen"/>ming in to your Enemies, and it being of more consequence to at<g ref="char:EOLhyphen"/>tack you in the heart and weakest part of your Kingdom, then on the Frontiers, where you are strongest, I do not know what to think.</p>
+            <p>All the Coast of <hi>Picardy,</hi> and that of <hi>Normandy</hi> as far almost as St. <hi>Mal<g ref="char:EOLhyphen"/>loes,</hi> has hardly a Port fit to receive Ships of any considerable Burthen, unless it be <hi>Havre de Grace,</hi> which being a strong place, and there be<g ref="char:EOLhyphen"/>ing considerable Forces on the other side of the <hi>Seine,</hi> I do not believe they will attack you there. <hi>Diep</hi> indeed lies on that Coast, and is not very strong; Ships of one hundred Tuns, or so, may enter into its Ha<g ref="char:EOLhyphen"/>ven. You must guard that side. <hi>Versaille</hi> is not above forty Leagues
+<pb n="84" facs="tcp:35817:44"/> from it. I do not speak of St. <hi>Vale<g ref="char:EOLhyphen"/>ry</hi> in <hi>Picardy,</hi> the Banks that are before it seem to secure it, since it cannot receive any large Vessels.</p>
+            <p>
+               <hi>St. Mallo</hi> seems to be in greater danger: The Town it self is not strong, and on the Sea-side might soon be batter'd down with Bombs, the Houses lying as it were one up<g ref="char:EOLhyphen"/>on another. It is worth the Ene<g ref="char:EOLhyphen"/>mies while to attempt that; first because the Remainder of your tat<g ref="char:EOLhyphen"/>ter'd Fleet lies there, which would fall into their hands; then the Town being the richest in your Kingdom for its bigness, their Men would strive the harder to master it for the sake of the Booty they would find there; then it would be a good Port to send in Recruits to their Forces from <hi>England,</hi> and secure their Transport Ships: Besides, you know that <hi>Britany</hi> is ready enough to Re<g ref="char:EOLhyphen"/>volt, and hath done it during your Reign.</p>
+            <pb n="85" facs="tcp:35817:44"/>
+            <p>Should they land near <hi>Brest,</hi> and then march up by Land to make themselves Masters of it, whilst their Fleet block'd up that Port, your Fleet and Magazines would be destroy'd at once.</p>
+            <p>Towards <hi>Nants</hi> and the Mouth of the River of <hi>Loire,</hi> there might be some danger; and <hi>Rochfort</hi> is not so secur'd, but you may have reason to fear.</p>
+            <p>
+               <hi>Rochel</hi> is a Port which they might easily master, and if they pos<g ref="char:EOLhyphen"/>sess'd themselves of the <hi>Isle of Ré,</hi> their Ships might be very secure. The best part of that Country, as also <hi>Poictou,</hi> are new Converts, who languish for a deliverance, and would doubtless readily joyn with them. You have but few Forces on that side, and it would be a long time before you could march up thi<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="86" facs="tcp:35817:45"/>
+            <p>
+               <hi>Bordeaux</hi> is a Port that could re<g ref="char:EOLhyphen"/>ceive all their Transport Ships, if it were necessary; and as for the Tow<g ref="char:EOLhyphen"/>er of <hi>Cordouan</hi> that lies at the mouth of the <hi>Garonne,</hi> it is an old Fortifi<g ref="char:EOLhyphen"/>cation that could not do much harm. Those of <hi>Blaye</hi> indeed are strong, but those of the <hi>Chateau Trompette</hi> at <hi>Bordeaux,</hi> are more sumptuous than formidable, and the People of <hi>A<g ref="char:EOLhyphen"/>quitain</hi> and <hi>Gascony,</hi> having former<g ref="char:EOLhyphen"/>ly felt the easiness of the <hi>English</hi> Go<g ref="char:EOLhyphen"/>vernment, may perhaps not be sor<g ref="char:EOLhyphen"/>ry to be under their old Masters a<g ref="char:EOLhyphen"/>gain. Even those of <hi>Bordeaux</hi> alone have oppos'd themselves more than once in your Reign to your Autho<g ref="char:EOLhyphen"/>rity, and have not forgot your se<g ref="char:EOLhyphen"/>vere usage of them, by quartering a whole Army in their Houses to humble them.</p>
+            <p>There are some Towns along the Coast of <hi>Gascony,</hi> but no Harbours to receive any Ships of Burthen.</p>
+            <pb n="87" facs="tcp:35817:45"/>
+            <p>
+               <hi>Bayonne</hi> being a Town inhabited by <hi>Roman Catholicks,</hi> and well for<g ref="char:EOLhyphen"/>tified, is not to be taken without a Siege; so that 'tis not to be ima<g ref="char:EOLhyphen"/>gin'd the Enemy would venture to land directly there. But <hi>St. Seba<g ref="char:EOLhyphen"/>stian, Fontarabia,</hi> and <hi>St. John de Luz</hi> are <hi>Spanish</hi> Towns just near it, that would receive them with open Arms, and having landed without opposition, and refreshed themselves, they could easily march up into <hi>Bearn</hi> and <hi>Gascony,</hi> where doubtless they would find Friends enough, a go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d part of the Country being in<g ref="char:EOLhyphen"/>habited by new Converts; and then <hi>Bayonne,</hi> and even <hi>Bordeaux,</hi> would be in much danger, principally if the <hi>Spaniards</hi> joyn'd some of their Men with the others; and though it may seem late in the Year, I may say that this is the fittest time, since then the Country People having ga<g ref="char:EOLhyphen"/>ther'd the Fruits of the Earth, your
+<pb n="88" facs="tcp:35817:46"/> Enemies might buy of them Provi<g ref="char:EOLhyphen"/>sions, and do them no damage, which with their <hi>Manifesto</hi>'s, which surely they will not forget to spread every where, might gain them a great many Friends. I cannot tell how<g ref="char:EOLhyphen"/>ever, but the great Sea that runs continually in that Bay, and the di<g ref="char:EOLhyphen"/>stance from <hi>England</hi> may hinder them for Invading your Kingdom on that side. But I repeat it to you once more, Never stay for so dan<g ref="char:EOLhyphen"/>gerous an Event, but wisely make a speedy Peace if you can, renew your Negotiations, and with good store of Emissaries send also good store of <hi>Lewis d Or</hi> into all the Courts of <hi>Europe,</hi> the last are now your best Friends; never be dis<g ref="char:EOLhyphen"/>hearten'd for one or two Refusals. In the most stubborn Courts, be sure let those you send be <hi>Gascons,</hi> they have the gift of perswading, and the fame of obtaining things by their
+<pb n="89" facs="tcp:35817:46"/> Confidence and indefatigable Impor<g ref="char:EOLhyphen"/>tunity: Men are not made of steel in our Age; and I do not see how a Prince, who loves to appear great, and wants Money very much, can be proof against a golden Bait. You must try all Means and Men, I say: at the worst you can but obtain no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>
+               <hi>You need not tell me that,</hi> reply'd the King, <hi>I know it of old, and do not leave so easily my ancient Maxims. I only ask of the greatest part of them to keep a Neutrality.</hi>
+            </p>
+            <p>I look upon a Neutrality bought with Money, <hi>said</hi> Louvois, as no great advantage.</p>
+            <p>
+               <hi>I own it,</hi> said the King, <hi>but in the present Juncture we must go by degrees; for I look upon a Prince brought by me to be Neuter, as half won to my Interest. As for Example; those two of the North, who, had not my Fleet been beaten, would have offer'd
+<pb n="90" facs="tcp:35817:47"/> their Mediation between me and the Confederates, and in case of refusal, would have declar'd for me: You see, that I have what I please from them for Money, Pitch, Tar, Masts, Cables, Hemp, Iron, Ships and Men, though each Man I have from them is as good as a Subject lost to them. But these Northern Princes are a good easie sort of People, who do not stand to weigh every thing so nicely. I must confess that I pay dear enough for their Men; first by Expenses I am at at</hi> Hamburgh, Altena, Dantzie, <hi>and other places to List them; and then the</hi> Lewis d'Ors <hi>with which I am oblig'd to make those, who are too clear-sighted, silent. But there is no help for't; 'Tis somewhat hard to see my self oblig'd to scatter so much Mo<g ref="char:EOLhyphen"/>ney abroad, whilst I want it so much to maintain my Armies at home, and am oblig'd to suck my Subjects Blood to the very last drop. But desperate
+<pb n="91" facs="tcp:35817:47"/> Diseases must have desperate Cures; and it is better to reign over a beg<g ref="char:EOLhyphen"/>gar'd Nation, than to lose a Crown. For this Reason I leave no Stone un<g ref="char:EOLhyphen"/>turn'd, nor Art untry'd to raise Mo<g ref="char:EOLhyphen"/>ney; and</hi> Pont Chartrain <hi>is so useful to me in the new Impositions which the extremity of my Affairs obliges me to raise on my Subjects every day, that I do believe were old Father</hi> Mazarin, <hi>and even</hi> Colbert <hi>alive, they could hardly match his Devices, principally now that so many Taxes have been laid on all things, that it is no easie matter to find out any that may bear a Toll, or bring in Money; for none will now lend a</hi> Solz <hi>on the</hi> Hostel de Ville; <hi>and the new Places and Titles which I have exposed to Sale, will not go off, not even those of Counsellor in the Parliament of</hi> Paris. <hi>However, I will try some new project to bring Money into my almost empty Coffers; for I have not forgot
+<pb n="92" facs="tcp:35817:48"/> the Verses which that incomparable Politician Cardinal</hi> Richlieu <hi>made:</hi>
+               <q>
+                  <lg>
+                     <l>—Quels-que soient nos effors</l>
+                     <l>Que l'Argent est la Clef de tous les grands ressors;</l>
+                     <l>Et que ce doux Metail qui frappe tant de têtes</l>
+                     <l>En Amour comme en Guerre a<g ref="char:EOLhyphen"/>vance les Conquêtes.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>In our designs, whatever be the thing,</hi>
+                     </l>
+                     <l>
+                        <hi>Gold's powerful Key unbends the strongest Spring;</hi>
+                     </l>
+                     <l>
+                        <hi>That lovely Metal every heart can move,</hi>
+                     </l>
+                     <l>
+                        <hi>And leads to Conquests both in War and Love.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <hi>I still assist Count</hi> Teckely, <hi>lest he should leave my Ally; he has cost me already a mint of Money, yet neither he nor I are a jot the better for't; and the loss of</hi> Great Waradin <hi>shews
+<pb n="93" facs="tcp:35817:48"/> their weakness too much, since they could never relieve it in so long a time. The Battel of</hi> Salankemen <hi>hath indeed much impair'd our Af<g ref="char:EOLhyphen"/>fairs on that side; and I particular<g ref="char:EOLhyphen"/>ly made a great loss when the Vizier</hi> Cuperli, <hi>my very good Friend, was kill'd there. Pray how does he do, have you not seen him below?</hi>
+            </p>
+            <p>Such Crouds of all sorts of Peo<g ref="char:EOLhyphen"/>ple coming daily there, <hi>reply'd</hi> Lou<g ref="char:EOLhyphen"/>vois, and the <hi>Turks</hi> Quarters be<g ref="char:EOLhyphen"/>ing far from that where I am, it is somewhat difficult to have an Ac<g ref="char:EOLhyphen"/>count of what Transactions happen so far off. But this War occasion<g ref="char:EOLhyphen"/>ing so great a concourse of Men of different Notions, that our Prince can hardly tell where to stow them, he has for Conveniencies sake, or<g ref="char:EOLhyphen"/>der'd that for the future the <hi>Turks</hi> and <hi>French</hi> should be lodg'd in the same Quarters, so that hereafter we shall be immediately acquainted with what passes in <hi>Hungary.</hi>
+            </p>
+            <pb n="94" facs="tcp:35817:49"/>
+            <p>
+               <hi>How,</hi> cry'd the King, <hi>do they offer to place the</hi> French <hi>with the</hi> Turks? <hi>You and all the Nation ought in honour to have oppos'd your selves to this.</hi>
+            </p>
+            <p>Alas Sir! <hi>reply'd</hi> Louvois, our Protestations to the contrary would have signified as little as those of your <hi>Hugonot</hi> Subjects did to you. This has been done on the score of the Alliance between you and the <hi>Ottoman</hi> Court; and to keep Peace below, it has been judg'd, that as the <hi>French</hi> are in a perfect Union with the <hi>Turks</hi> upon Earth, they would agree together below better then with any other Nation actual<g ref="char:EOLhyphen"/>ly at War with either of the Two: Nay, they even intend to pester us with that Rascally Crew the <hi>Alge<g ref="char:EOLhyphen"/>rines,</hi> who have hitherto had their Quarters apart from the rest.</p>
+            <pb n="95" facs="tcp:35817:49"/>
+            <p>
+               <hi>But what would the World say,</hi> said the King, <hi>if this were known?</hi>
+            </p>
+            <p>No more nor no less then they say now, <hi>return'd</hi> Louvois: Doth not every one know that you are in League with the <hi>Turks,</hi> and have assisted them with Guns, Officers, Gunners, Ingeniers, and all sorts of Machines and Warlike Instruments, and supply Count <hi>Teckely</hi> continu<g ref="char:EOLhyphen"/>ally with Money? You would make a Mystery of this Alliance, yet it discovers it self every day. If you think it inglorious, you should not have made it.</p>
+            <p>
+               <hi>Well then, let them know it if they will,</hi> reply'd the King. Francis <hi>the First my Predecessor did as much with</hi> Soliman <hi>against</hi> Charles <hi>the Fifth the Emperor, why may not I then do the same now against</hi> Leopold? <hi>All that is to procure a Peace to</hi> Europe; <hi>for the Sultan and the late Vizier promis'd to my Ambassadour never to
+<pb n="96" facs="tcp:35817:50"/> make a Truce with the Christians, without including me in it as his Ally.</hi>
+            </p>
+            <p>But how shall a Man trust these <hi>Turks,</hi> said <hi>Louvois.</hi>
+            </p>
+            <p>
+               <hi>As safely as you may trust me,</hi> re<g ref="char:EOLhyphen"/>ply'd the King. <hi>Nay, I am told that most</hi> Tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks <hi>keep their words more re<g ref="char:EOLhyphen"/>ligiously than many Christians. Grounding that Principle on the</hi> Al<g ref="char:EOLhyphen"/>coran <hi>in the Chapter of</hi> Mary, <hi>where it is said that</hi> Ismael <hi>was a Prophet, and punctually perform'd his Promises, and that being his Off-spring, they ought to keep their word if they would be reckon'd his Children. This I my self read in that godly Book, which I have carefully perused; and by the way, let me tell you, that I have re<g ref="char:EOLhyphen"/>ceiv'd no small comfort and satisfa<g ref="char:EOLhyphen"/>ction of mind by the edifying Morals it teaches; as in the Chapter of</hi> Horses, <hi>which hath many great Im<g ref="char:EOLhyphen"/>precations against the ungrateful;
+<pb n="97" facs="tcp:35817:50"/> and that of</hi> Man, <hi>which promises great rewards to those that live well, and observe the Law, which answers to our Rule for meritorious Works. I also like extreamly the Despotick Government of their</hi> Sultans; <hi>for a Soveraign that is oblig'd to give an account of his Actions is in a woful Condition: Kings being Gods upon Earth, ought to rule with a boundless sway, and scorn the Cobweb Fence of the Laws, which are only to keep the giddy slavish Crowd within their duty.</hi>
+            </p>
+            <p>I heard, <hi>said</hi> Louvois, that these <hi>Turks</hi> have receiv'd the Ambassador lately sent out of <hi>England</hi> with great demonstrations of Respect and Joy, and that 'tis likely they will make a Peace by his Mediation, if the Em<g ref="char:EOLhyphen"/>perour, or his Council, are willing to grant them any reasonable terms.</p>
+            <p>
+               <hi>I do not fear it much,</hi> said the King, <hi>for now the</hi> Moscovites <hi>have made
+<pb n="98" facs="tcp:35817:51"/> Peace with them, which is a Thorn out of their foot; and the</hi> Cham <hi>of</hi> Tartary, <hi>who sent an Envoy to the</hi> Poles, <hi>on pretence of offering his Me<g ref="char:EOLhyphen"/>diation, though 'twas to learn what posture they were in, assists them. Be<g ref="char:EOLhyphen"/>sides, at the Imperial Court, my good Friends the Jesuits will take care that all the Proposals for a Peace or Truce with the</hi> Turks, <hi>may not have any effect; so that I am pretty well satisfied, that at least it will not be concluded this Summer. Yet I must confess that it grieves me much to see all the World thus applaud the Prince of</hi> Orange, <hi>and that one whose ruin I design'd, should now put himself in a Condition to Master me.</hi>
+            </p>
+            <p>Without doubt, <hi>said</hi> Louvois, he will do it, if it ever lies in his power; considering how ill you dealt with him after the Peace of <hi>Nimeghen,</hi> where you promis'd to do him all manner of Justice. Seeing how lit<g ref="char:EOLhyphen"/>tle
+<pb n="99" facs="tcp:35817:51"/> regard you have to your word, your Enemies have now found a way to be no longer put upon.</p>
+            <p>
+               <hi>Nay then,</hi> said the King, <hi>they must be grown very cunning; for how can they avoid it?</hi>
+            </p>
+            <p>Easily enough, <hi>return'd</hi> Louvois; For they have unanimously agreed never to trust you for the future, what<g ref="char:EOLhyphen"/>ever Promise you make to them; for to deal plainly with you, your Promises are as much cry'd down among your Neighbours, as your Brother <hi>James</hi>'s late Copper Crowns in <hi>Ireland,</hi> principally since the Peace of <hi>Nimeghen;</hi> which will be a mighty Obstacle to the forward<g ref="char:EOLhyphen"/>ing a Peace, and will for the future oblige your Enemies to take such firm and solid Assurances of the En<g ref="char:EOLhyphen"/>gagements they may have with you, that it will not be in your power to shake or remove them. A King's word hath hitherto been look'd up<g ref="char:EOLhyphen"/>on
+<pb n="100" facs="tcp:35817:52"/> as sacred, but either yours, or that of the Abdicated Prince, are now no more believ'd by them than the <hi>Alcoran.</hi> All those of y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur E<g ref="char:EOLhyphen"/>nemies Party that come below una<g ref="char:EOLhyphen"/>nimously tell us, that you will spee<g ref="char:EOLhyphen"/>dily be oblig'd to vomit up what<g ref="char:EOLhyphen"/>ever you have usurp'd since the <hi>Py<g ref="char:EOLhyphen"/>renean</hi> Treaty.</p>
+            <p>
+               <hi>Softly,</hi> said the King, <hi>I will never yield to such terms; I don't know but I might be perswaded to give back some of the Places of which I have possessed my self since the Peace of</hi> Ni<g ref="char:EOLhyphen"/>meghen, <hi>provided my Brother</hi> James <hi>were re-inthron'd; for it goes horri<g ref="char:EOLhyphen"/>bly against my heart to own the Prince of</hi> Orange <hi>for lawful King of</hi> Great Britain, <hi>the very thoughts of it put me all over into a cold sweat.</hi>
+            </p>
+            <p>I see, <hi>said</hi> Louvois, that this sticks in your Throat, and will ve<g ref="char:EOLhyphen"/>ry unwillingly go down with you, but yet you must swallow this Pill,
+<pb n="101" facs="tcp:35817:52"/> as bitter as it is, for I am sure there is no help for't.</p>
+            <p>
+               <hi>Ah! dear</hi> Louvois, cry'd the King, <hi>this stabs me to the heart. What shall I say to that unfortunate Couple, whose ruin I have partly caus'd? I am not my self when I think on't.</hi>
+            </p>
+            <p>I believe as much, <hi>reply'd</hi> Lou<g ref="char:EOLhyphen"/>vois. But why might not you pass the same Complement on them which you sent to that Prince and his Brother <hi>Charles,</hi> when you en<g ref="char:EOLhyphen"/>ter'd into a Confederacy with <hi>Oli<g ref="char:EOLhyphen"/>ver Cromwel;</hi> so now you may let them retire to <hi>Rome</hi> with your Bles<g ref="char:EOLhyphen"/>sing? Yet considering the Prince and Princess of <hi>Orange</hi>'s Generosity, I do not believe you will be put to that trouble. It is very indifferent to them, whether they reside at <hi>Rome</hi> or at St. <hi>Germans,</hi> provided they do not concern themselves with Publick Affairs, and your Majesty, according to <hi>Solomon</hi>'s Sentence,
+<pb n="102" facs="tcp:35817:53"/> cause the Child in question to be deliver'd to the right Owner. In that case I believe they shall not want an honourable Allowance if they demand it.</p>
+            <p>
+               <hi>But what will the World say of me then?</hi> said the King.</p>
+            <p>What did not they say, <hi>reply'd</hi> Louvois, when you surpriz'd <hi>Stras<g ref="char:EOLhyphen"/>burgh,</hi> broke the Peace, and viola<g ref="char:EOLhyphen"/>ted the Truce by the Siege of <hi>Phi<g ref="char:EOLhyphen"/>lipsburgh?</hi> Every one talks of those things, and your Majesty lets them talk on.</p>
+            <p>
+               <hi>I had my reasons for't then,</hi> said the King, <hi>and you your self advis'd me to't.</hi>
+            </p>
+            <p>Because I saw that your Inclina<g ref="char:EOLhyphen"/>tion lead you to it, <hi>said</hi> Louvois, and that the War was beneficial to me; for I was as it were useless in time of Peace, and Madam <hi>de Main<g ref="char:EOLhyphen"/>tenon</hi>'s power was then greater than mine, I saw my self reduc'd one time
+<pb n="103" facs="tcp:35817:53"/> to Dragoon the poor <hi>Hugonots;</hi> and had the Peace lasted but two years longer, I should even have dwindled into a Secretary of Madam <hi>de Main<g ref="char:EOLhyphen"/>tenon,</hi> and her Jesuitical Coun<g ref="char:EOLhyphen"/>sel.</p>
+            <p>
+               <hi>Well then, since I am engag'd in a War,</hi> said the King, <hi>I must go through; for should I be oblig'd to restore the Principality of</hi> Orange, <hi>what a stain would it not be to my Glory. You know that when I seiz'd it, I trusted the management of the whole business to you, and there was not so much as an Inventory made, of the Goods which were carried away.</hi>
+            </p>
+            <p>It is true, <hi>said</hi> Louvois, that I did not think fit to sign any, though it was promis'd to the Commander of the Castle; but Commissary <hi>L'Enfant,</hi> who by my Orders re<g ref="char:EOLhyphen"/>ceiv'd the Ammunition, Cannon, and Arms which were found in the Cittadel, hath taken an Account of
+<pb n="104" facs="tcp:35817:54"/> the whole, by which you may set<g ref="char:EOLhyphen"/>tle the Business whenever you are oblig'd to make Restitution.</p>
+            <p>
+               <hi>But then,</hi> said the King, <hi>what will become of the Donation which the Corporations made to me of the Prin<g ref="char:EOLhyphen"/>cipality, as we have specified it, vo<g ref="char:EOLhyphen"/>luntarily, and without the least com<g ref="char:EOLhyphen"/>pulsion?</hi>
+            </p>
+            <p>I would not have you, <hi>said</hi> Lou<g ref="char:EOLhyphen"/>vois, so much as mention of it, lest all the World laugh at you: Sufferings and Misery are cruel Ma<g ref="char:EOLhyphen"/>sters, and often compel Men to say and do those things which they would never do if they were at li<g ref="char:EOLhyphen"/>berty; and doubtless the <hi>English</hi> Plenipotentiaries will take care to make you renounce those Preten<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>I wish this may not come into the Prince of</hi> Orange<hi>'s head,</hi> said the King.</p>
+            <pb n="105" facs="tcp:35817:54"/>
+            <p>Never trouble your self about it, <hi>reply'd</hi> Louvois, he'll take special care of it; nor is he so forgetful as you could wish.</p>
+            <p>
+               <hi>Whatever may happen,</hi> said the King, <hi>I will never act against my honour; and my Interest shall always be the just Rule of all my Actions.</hi>
+            </p>
+            <p>You had taken the very same Re<g ref="char:EOLhyphen"/>solution, <hi>said</hi> Louvois, whilst Car<g ref="char:EOLhyphen"/>dinal <hi>Furstembergh</hi> was Co-adjutor of <hi>Cologn;</hi> yet he was baulk'd of the Electorship, though he had the Ma<g ref="char:EOLhyphen"/>jority of Votes; and the Prince of <hi>Orange</hi> was to cunning for you in that Affair.</p>
+            <p>
+               <hi>I was indeed serv'd a scurvy trick in that business,</hi> said the King, <hi>and Pope</hi> Innocent <hi>the</hi> XI. <hi>us'd me ill in it, but the Cardinal himself drew all the mischief on his own head, having yielded up the Dignity of Co-adjutor against my Advice.</hi>
+            </p>
+            <pb n="106" facs="tcp:35817:55"/>
+            <p>The same happens, <hi>said</hi> Louvois, when great Affairs miscarry as when a Man dies; there is always some excuse given for his dying, yet for all that, the Man is nevertheless dead. As much may be said of the Cardinals Exclusion. This is but a small disappointment considering what may follow, when every one calls for his own again, to come to a Peace.</p>
+            <p>
+               <hi>Then you imagine,</hi> said the King, <hi>that I shall be like</hi> Esop<hi>'s Jackdaw, which was oblig'd to restore to every Bird its Feather, and that I shall have nothing to ask on my side.</hi>
+            </p>
+            <p>What can you claim, seeing you have lost nothing, <hi>said</hi> Louvois.</p>
+            <p>
+               <hi>A great deal,</hi> reply'd he; <hi>first all</hi> Germany, <hi>as</hi> Charles <hi>the Great's Successor; then the</hi> Seventeen Pro<g ref="char:EOLhyphen"/>vinces, <hi>by virtue of the Queen's Right, and</hi> Spain <hi>it self for the</hi> Dauphin <hi>(after his Catholick Maje<g ref="char:EOLhyphen"/>sty's
+<pb n="107" facs="tcp:35817:55"/> decease) as being the next Heir, not forgetting Madam of</hi> Orleans<hi>'s Rights on the</hi> Palatinate, <hi>those of the</hi> Dauphiness <hi>on</hi> Bavaria, <hi>and those of Cardinal</hi> Furstemberg <hi>on</hi> Cologn; <hi>besides the Charges of the War, and the Sums laid out to buy several Towns, which alone will amount to a vast Sum.</hi>
+            </p>
+            <p>All these pretences, <hi>said</hi> Louvois, are not worth my while to talk on, consider that my time is short, and that I must soon leave you. I would advise you to make a Peace before the <hi>Turks</hi> make theirs; else you will have those bloody <hi>Hussars, Cro<g ref="char:EOLhyphen"/>ats, Transilvanians</hi> and <hi>Rascians</hi> come upon you, you will have no Mercy on you, nor your Men, besides those that are already upon you in <hi>Dauphiné,</hi> who perhaps may soon push on to <hi>Lyons,</hi> if not to <hi>Paris.</hi> Offer a Peace, and that speedily too; this is your time, Now or Never;
+<pb n="108" facs="tcp:35817:56"/> set the Northern Kings to work on one side, and the Pope on the other.</p>
+            <p>
+               <hi>I have, as I told you, done it al<g ref="char:EOLhyphen"/>ready,</hi> return'd the King, <hi>and what will perhaps surprize you, I have even set the very</hi> Switzers <hi>about it: I have done them the honour to offer to them to be Mediators between me and the Duke of</hi> Savoy, <hi>endeavouring by that means to draw them to my side, but all in vain; and as for the first, they are bandied about from one to another by the Confederates, and can do no good on't; they put them off, and would fain make them believe that things are not yet ripe for it, though I find to my sorrow that they are too ripe already.</hi>
+            </p>
+            <p>The last Expedient I have to pro<g ref="char:EOLhyphen"/>pose; <hi>said</hi> Louvois, is that you of<g ref="char:EOLhyphen"/>fer so much to them that they may be satisfied, and afterward cause your <hi>Paris Gazettier</hi> to say in his <hi>Gazette,</hi> that your Enemies demand<g ref="char:EOLhyphen"/>ed
+<pb n="109" facs="tcp:35817:56"/> a Peace with this Clause, <hi>That as you have always been inclin'd to maintain Peace and Tranquility throughout Christendom, you could not refuse their Request, and have grant<g ref="char:EOLhyphen"/>ed them a Peace at the earnest prayers of his Holiness and your Allies,</hi> and then let them believe what they will of it.</p>
+            <p>
+               <hi>But,</hi> said the King, <hi>what must we say about the places which I must yield to have that Peace?</hi>
+            </p>
+            <p>The Author of the <hi>Gazette,</hi> said <hi>Louvois,</hi> must only take care not to make any mention of that, and then you must be satisfied, not being able to do better.</p>
+            <p>
+               <hi>I have already taken that me<g ref="char:EOLhyphen"/>thod with the Pope,</hi> said the King. <hi>You must know that being a</hi> Neapoli<g ref="char:EOLhyphen"/>tan <hi>and</hi> Creature <hi>of</hi> Odescalchi, <hi>I had order'd my Faction to Exclude him, but the Express which carried that Dispatch, arriv'd two days too
+<pb n="110" facs="tcp:35817:57"/> late. His Predecessor dy'd like a true</hi> Venitian, <hi>who generally hide their Sentiments, and only reveal them when they can live no longer. By the means of the large Presents which I had caus'd to be given to his Ne<g ref="char:EOLhyphen"/>phews, I was in hopes to have enga<g ref="char:EOLhyphen"/>ged the Ʋncle in my Party; yet at his death the old angry Pontiff could not forbear hurling his Thunderbolt at me, which yet was like letting off a Gun into the Air, just so much Pow<g ref="char:EOLhyphen"/>der lost. Now seeing that his Suc<g ref="char:EOLhyphen"/>cessor was a good down-right sort of an old Fellow, somewhat tender Consci<g ref="char:EOLhyphen"/>enc'd, and no Conjurer in Matters of State, I have pacified him with a ver<g ref="char:EOLhyphen"/>bal Renunciation of the Propositions made by some of the Bishops of the Assembly of my Clergy, and such Eccle<g ref="char:EOLhyphen"/>siastical Condescensions; and have wheedled him so far, as to preconize by little and little the better part of the Bishops who wanted their Bulls.
+<pb n="111" facs="tcp:35817:57"/> For I would not have</hi> Rome <hi>and</hi> Ge<g ref="char:EOLhyphen"/>neva <hi>to encounter with all at once. Thus I govern my self according to the Times, and find that what was fit to be believed formerly, is not so proper now, and that the Religion of a King ought to be reconcil'd to his Interest, it being just that we great Men should have some priviledge above the vul<g ref="char:EOLhyphen"/>gar. And indeed, I intend that Re<g ref="char:EOLhyphen"/>ligion should serve my turn, and I not be oblig'd to serve the turn of Re<g ref="char:EOLhyphen"/>ligion.</hi>
+            </p>
+            <p>Why then, <hi>said</hi> Louvois, do you torment your self meerly to tor<g ref="char:EOLhyphen"/>ment the <hi>Hugonots,</hi> and propagate your Religion?</p>
+            <p>
+               <hi>Kings,</hi> said <hi>Lewis, with such pre<g ref="char:EOLhyphen"/>tences cloak their other designs. I believ'd that it was my Interest to pull down that Party, the better to succeed in my grand Project, besides the Glory I gain'd in doing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what my Predecessors could not do: Though
+<pb n="112" facs="tcp:35817:58"/> without those Considerations, my Con<g ref="char:EOLhyphen"/>fessor told me I was oblig'd to do it, to expiate the Rape of</hi> Montp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<hi>'s Wife, of whom at last I am deliver'd; for, what with g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ief for being out<g ref="char:EOLhyphen"/>top'd in my Favo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and a fit of De<g ref="char:EOLhyphen"/>votion that took her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she poor Soul, after having serv d me many years, is gone to serve Heaven in a Retirement.</hi>
+            </p>
+            <p>That People is unhappy, <hi>said</hi> Louvois, whole Prince is govern'd by bigotted Gown-men. For my part I have always made my Religion condescend to my Interest, remem<g ref="char:EOLhyphen"/>bring that the Emperour <hi>Galba</hi> said that the People rather speak to a Princes Fortune than to his Person. And that saying of <hi>Henry</hi> IV. That a Crown was worth going to Mass, a Maxim which King <hi>James</hi> should have obse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v'd. But pray how came you to entertain any thought of a likelyhood of Succe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the Attempt
+<pb n="113" facs="tcp:35817:58"/> you would have made to re-establish him, had not your Fleet been beat<g ref="char:EOLhyphen"/>en? 'Tis strange you should ima<g ref="char:EOLhyphen"/>gine, that he that could not keep his Throne when he was on it, and had a considerable Army and Navy of his own, should settle himself there again upon the Chymerical Promise of a few bigotted Roman Catholicks.</p>
+            <p>
+               <hi>You are mistaken,</hi> said the King, <hi>there are not a few Quakers and o<g ref="char:EOLhyphen"/>ther Sectaries for him, besides a good number of Protestants.</hi>
+            </p>
+            <p>Sure then they must be Mad-men, <hi>cry'd</hi> Louvois, or had a mind to draw him into a Snare to secure him for the rest of his Life, or send him into some Island, as the late King of <hi>Portugal</hi> was. Do not de<g ref="char:EOLhyphen"/>ceive your self, Sir, there cannot be the least likelyhood that Protestants should withdraw themselves from the Government of a King and
+<pb n="114" facs="tcp:35817:59"/> Queen of their Religion, to submit again to one of a contrary Belief, who meanly abandon'd them.</p>
+            <p>
+               <hi>What harm had he done,</hi> cry'd the King, <hi>to lose his Kingdom thus; he had only a mind to reform some few Laws, and polish their Religion.</hi>
+            </p>
+            <p>To reform a State, <hi>said</hi> Louvois, is a very nice business. According to <hi>Aristotle,</hi> the Reformation of one is not a less difficult Task then its Foundation; at least he should have stood firm. For having abdicated his Crown, his People did wisely to chose another.</p>
+            <p>
+               <hi>The English,</hi> said the King, <hi>com<g ref="char:EOLhyphen"/>plain that he was too violent, and task his Predecessor of too much mild<g ref="char:EOLhyphen"/>ness. So I must needs compare that capricious Nation to</hi> Esop<hi>'s Frogs, who having pray'd</hi> Jupiter <hi>to give them a King, and accordingly receiv'd a good one, who suffer'd them to do what they would with him, were quick<g ref="char:EOLhyphen"/>ly
+<pb n="115" facs="tcp:35817:59"/> weary of him; and having peti<g ref="char:EOLhyphen"/>tion'd</hi> Jupiter <hi>for another, had one so imperious and severe sent in his place, that they soon repented them of their wish. A Nation seldom knows what to ask, or what they want.</hi>
+            </p>
+            <p>There is, <hi>reply'd</hi> Louvois, a just <hi>Medium</hi> between Easiness and Seve<g ref="char:EOLhyphen"/>rity (as between too much and too little) which a Prince ought always to observe, if he desires to maintain his Power. <hi>Charles</hi> indeed was na<g ref="char:EOLhyphen"/>turally good, but his Pleasures made him, even whilst he liv'd, leave the Helm of the Government to his Brother; the then Duke of <hi>York</hi>'s management. So that after the precipitated death of the first, though the <hi>English</hi> had another King, yet they rather had a King with another face, than with another Nature, since the latter already rul'd before he was King; which made one say, That Foxes hair may change, but their Ma<g ref="char:EOLhyphen"/>lice not.</p>
+            <pb n="116" facs="tcp:35817:60"/>
+            <p>
+               <hi>Well, I should do for him what I can,</hi> cry'd <hi>Lewis, we ought to do to others what we would have done to our selves in a like occasion.</hi>
+            </p>
+            <p>That is indeed a good Chr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stian Moral, <hi>cry'd</hi> Louvois, 'tis as the Pro<g ref="char:EOLhyphen"/>verb saith, To make provision of Arms in time of Peace; for I have observ'd that this Age hath prov'd fatal to many Princes, as we have seen in <hi>Portugal</hi> to King <hi>Alphonso,</hi> in <hi>Turky</hi> to <hi>Sultan Mahomet,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the Kings, <hi>Charles</hi> and <hi>James,</hi> not forgetting the Catastrophe which happen'd in <hi>Siam,</hi> occasion'd first by a design there was to deprive the lawful Heir, which is a fine Lesson to those that are yet standing; a<g ref="char:EOLhyphen"/>bove all, I advise you to avoid such a misfortune as <hi>Francis</hi> the first's at the Siege of <hi>Pavia.</hi>
+            </p>
+            <p>
+               <hi>Sure I know better things,</hi> said the King, <hi>than to expose my self in the Field. I never move from my Palace
+<pb n="117" facs="tcp:35817:60"/> but to reap Lawrels, and receive the Fruits of my Bargain, as at</hi> Mons, <hi>where there was no other need of my coming, then only to see if the Pur<g ref="char:EOLhyphen"/>chace was worth the price. How<g ref="char:EOLhyphen"/>ever, this Year I so dispo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d my busi<g ref="char:EOLhyphen"/>ness, that before the Con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>derates were got together, which by reason of their being many, could not be so soon as I, I set down before</hi> Namur, <hi>and thanks to my usual Arts, soon was welcom'd into the Town but the plaguy Fort had like to have baffled me, and had not a kind Officer in it very in<g ref="char:EOLhyphen"/>dustriously caus'd a Parley to be beat on one side, whilst brave</hi> Coehorn <hi>and</hi> Wynberghen <hi>were hard at it on the other, I protest I had been in a desperate Condition; but that being master'd, I easily brought the Castle to terms with my Army, which con<g ref="char:EOLhyphen"/>sisted of about a hundred and twenty thousand men, a good part whereof, and particularly the Horse, which
+<pb n="118" facs="tcp:35817:61"/> was much superiour in number to that of the Enemy, who were come near to relieve the Castle, had advantagi<g ref="char:EOLhyphen"/>ously posted themselves to cover me with</hi> Luxemburgh <hi>at the head of them. And as soon as the Castle was mine, I, with</hi> Maintenon <hi>and the rest of the Females whom I had brought to be Spectators of my great Ex<g ref="char:EOLhyphen"/>ploit, wisely left the dangerous Neigh<g ref="char:EOLhyphen"/>bourhood of the Prince of</hi> Orange<hi>'s Army, well imagining that he would fall on my Men as soon as ever he had the least opportunity; so I order'd</hi> Luxemburgh <hi>not to fight, and left him to manage the rest as well as he could. And 'twas well I march'd off, for I had rather have another</hi> Fistu<g ref="char:EOLhyphen"/>la <hi>than be oblig'd to have been with him when the Enemy attack'd his men t'other day. The News of that bloo<g ref="char:EOLhyphen"/>dy Encounter did not only balk my Supper, but puts me into a trembling fit when I think on't; I have been
+<pb n="119" facs="tcp:35817:61"/> forc'd to retire to</hi> Marly <hi>to try to settle my Mind, for those Crouds of Mourners that throng'd my Court at</hi> Versaille, <hi>are such sad Marks of my loss, that each of them seems to me the Ghost of some Lord or Officer that haunts me; and had not</hi> Luxemburgh <hi>had notice sent to him privately the night before of the Enemies design, which made him be ready for them, I do not know what he would have done, though, as I understand, the Post that was attack'd was so strongly secur'd, even before we had Advice of their coming to force it, that none but men that dare fight at a great disadvan<g ref="char:EOLhyphen"/>tage would have presum'd to attempt it.</hi>
+            </p>
+            <p>I do not wonder then, <hi>said</hi> Lou<g ref="char:EOLhyphen"/>vois, why the Prince of <hi>Orange</hi> did not fight you before, and you must have had mighty Advantages all a<g ref="char:EOLhyphen"/>long, since he could reckon this, as difficult as it was, a favourable oc<g ref="char:EOLhyphen"/>casion.
+<pb n="120" facs="tcp:35817:62"/> An Officer below, somewhat Poetically inclin'd, admiring t'other day <hi>Luxemburgh</hi>'s Policy in posting himself so well, made the following Verses in his praise.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>On avoit crù jusqu'à ce jour</hi>
+                  </l>
+                  <l>
+                     <hi>Le Maréchal de</hi> Luxembourg</l>
+                  <l>
+                     <hi>Grand Sorcier, méchant Capitaine;</hi>
+                  </l>
+                  <l>
+                     <hi>Mais le Diable en ayant pris soin,</hi>
+                  </l>
+                  <l>
+                     <hi>En a fait un second</hi> Turrenne,</l>
+                  <l>
+                     <hi>Dont la</hi> France <hi>avoit grand besoin.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Je ne m'étonne nullement</hi>
+                  </l>
+                  <l>
+                     <hi>Qu</hi>'Atlas <hi>porte le Firmament,</hi>
+                  </l>
+                  <l>
+                     <hi>Comme dit la Métamorphose;</hi>
+                  </l>
+                  <l>
+                     <hi>Puisque nous voyons ence jour</hi>
+                  </l>
+                  <l>
+                     <hi>Que tout la</hi> France <hi>repose</hi>
+                  </l>
+                  <l>
+                     <hi>Sur la bosse de</hi> Luxembourg.</l>
+               </lg>
+               <lg>
+                  <l>Till by <hi>Lucifer</hi> taught,</l>
+                  <l>We <hi>Luxemburgh</hi> thought,</l>
+                  <l>Though famous for Witchcraft, a paltry Commander;</l>
+                  <pb n="121" facs="tcp:35817:62"/>
+                  <l>But since tutor'd he's been,</l>
+                  <l>He's another <hi>Turenne,</hi>
+                  </l>
+                  <l>Whom the <hi>French</hi> so much wanted in <hi>Flanders.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>That on's back <hi>Atlas</hi> bears</l>
+                  <l>The heavenly Spheres</l>
+                  <l>May be true, tho' by Poets 'tis told us;</l>
+                  <l>Since all Men allow</l>
+                  <l>That Hump <hi>Luxemburgh</hi> now</l>
+                  <l>Bears the load of all <hi>France</hi> on his shoulders.</l>
+               </lg>
+            </q>
+            <p>Thus sometimes below we discourse of the Affairs of the World; As for example, of the slowness of the <hi>Germans</hi> to enter into Action; of the foolish Punctilio's, which hinder them from uniting their Forces, to the no little Advantage of your Ma<g ref="char:EOLhyphen"/>jesty; of the ease you find to fo<g ref="char:EOLhyphen"/>ment Dissentions among them by those Pensioners you have there in no small number; sometimes we
+<pb n="122" facs="tcp:35817:63"/> speak of the blind stupidity of some of the <hi>Switzers,</hi> who could suffer themselves to be as it were muzled by your Fort at <hi>Hunninghen,</hi> and surrounded by your Conquests in <hi>Alsatia</hi> and <hi>Savoy,</hi> and who were formerly so unwise, as not to take the County of <hi>Burgundy</hi> into their Possession, to restore it to the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> after a Peace, and who by lending you Men to fight against the Defenders of the Liberty of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> do as it were spin their own Rope, and weaken their Country; which made one apply this to them:
+<q>
+                  <lg>
+                     <l>
+                        <hi>Quam male pro pauco libertas vendi<g ref="char:EOLhyphen"/>tur auro.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Base Traitors to your selves! why have you sold</l>
+                     <l>Your native Liberty for fatal Gold?</l>
+                  </lg>
+               </q>
+               <pb n="123" facs="tcp:35817:63"/> Some speak of the decay of <hi>Spain,</hi> and say that, as it seems to be a Le<g ref="char:EOLhyphen"/>thargick Body, the loss it has su<g ref="char:EOLhyphen"/>stained in the taking of <hi>Namur,</hi> can do it more good then harm, by a<g ref="char:EOLhyphen"/>waking the other Members of it, and not letting them altogether rely on the Arms of their Neighbours for their Security.</p>
+            <p>Others reflect on the <hi>Polanders</hi> going into the Field, as it were, to take the Air at the latter end of the Summer, and then return home; when they might easily march up to <hi>Constantinople,</hi> being joyned to the <hi>Germans</hi> and <hi>Hungarians.</hi>
+            </p>
+            <p>The Pope's simplicity in suffering himself to be wheadled by the <hi>French</hi> is not forgot, nor the immoderate Love which some <hi>Italian</hi> Princes have for their ease, which makes them see their Neighbour invaded by an incroaching Foe, without as<g ref="char:EOLhyphen"/>sisting him; which is as it were,
+<pb n="124" facs="tcp:35817:64"/> to sit unconcern'd in our own House, whilst the next is on fire, meerly because we hope, and are pretty well assur'd, the fire will be quench'd without us.</p>
+            <p>Some laugh at the foolish hopes of such would-be-Polititians of your Party, as thought that the <hi>States-General</hi> would clap up a separate Peace with you upon the taking of <hi>Namur,</hi> as if they knew not better their Interest, and this were possi<g ref="char:EOLhyphen"/>ble to be effected as long as the Prince of <hi>Orange,</hi> their best and most powerful Friend, hath the Hearts of them all.</p>
+            <p>The Pains he takes daily for <hi>Great Britain,</hi> for them, and for all the Confederates in general, his Con<g ref="char:EOLhyphen"/>duct and his Bravery, are the things we talk of most, with universal A<g ref="char:EOLhyphen"/>mazement. Nor are the Electors of <hi>Bavaria</hi> and <hi>Brandenburgh</hi> for<g ref="char:EOLhyphen"/>gotten.</p>
+            <pb n="125" facs="tcp:35817:64"/>
+            <p>
+               <hi>Well,</hi> said the King interrupting him, <hi>if I can but end this glorious War by a more glorious Peace, I shall with reason believe my self the great<g ref="char:EOLhyphen"/>est Monarch that ever sway'd a Scep<g ref="char:EOLhyphen"/>ter: and to do this, 'tis but finding some brave, some hold Mortal, who like another</hi> Sçevola, <hi>dare Sacrifice his Life to save his Country.</hi>
+            </p>
+            <p>You may look long enough, <hi>re<g ref="char:EOLhyphen"/>ply'd</hi> Louvois, before you find such a one. Loving Subjects are very scarce in <hi>France,</hi> since you have in<g ref="char:EOLhyphen"/>troduc'd there your Despotick Go<g ref="char:EOLhyphen"/>vernment. Some of your Villains were fitter for the Work you mean, than any brave Man; such a base, horrid Action being enough to make any, who truly d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>serves the Name of Brave, have a hatred for any one that could mention it. We have your undertaker the <hi>Chevalier de Granval</hi> come among us lately, he was immediately condemn'd to un<g ref="char:EOLhyphen"/>dergo
+<pb n="126" facs="tcp:35817:65"/> double the Punishment of <hi>Ra<g ref="char:EOLhyphen"/>villiac;</hi> for though the latter ef<g ref="char:EOLhyphen"/>fected his execrable Parricide, yet the first was found more Criminal, since he undertook his Deed meer<g ref="char:EOLhyphen"/>ly for a reward of Money, whilst the other did it as a meritorious act, at the instigation of your now dear Jesuits, who, as I understand, had no small share in this, as well as you know who. For shame leave that bloody Design, nor think to effect it, since the Protection of Heaven secures the Head at which you vain<g ref="char:EOLhyphen"/>ly aim: Think what stain this will be to your other Actions, nor ag<g ref="char:EOLhyphen"/>gravate your already too odious Crimes, by one of so high and abo<g ref="char:EOLhyphen"/>minable a kind. You was saying just now, that we ought to do to o<g ref="char:EOLhyphen"/>thers, what we would have done to our selves; would you be serv'd so your self? why then do you give an occasion to others to endeavour
+<pb n="127" facs="tcp:35817:65"/> to prevent you. You will tell me that you are secure on the side of the Heads of the Confederate Par<g ref="char:EOLhyphen"/>ty, who are not of a nature to en<g ref="char:EOLhyphen"/>courage such an act: but take care that some one of the many Milli<g ref="char:EOLhyphen"/>ons of Wretches whom your intole<g ref="char:EOLhyphen"/>rable Extorsions have made desperate, may not be the unjust Instrument of Heaven's too just vengeance; nay, amongst the Clergy there are but too many hate you for your En<g ref="char:EOLhyphen"/>croachments on their Rights, and seizing of their Plate; whenever your Necessities oblige you to press harder on them, 'tis very likely that, though you have endeavour'd to blind them for a while, with your feigned Love to the <hi>Roman</hi> Faith, by extirpating their Mortal Foes the <hi>Hugonots,</hi> yet now discovering, through your pretended Devotion, a real design to humble them, they may serve you as they have your
+<pb n="128" facs="tcp:35817:66"/> Predecessors <hi>Henry</hi> III. and <hi>Hen.</hi> IV. the first a greater Biggot still then your self; which made one of the Monkish Tribe say, as I have been inform'd of it below, That <hi>you ought not to forget that their sleeves are very convenient to hide a pointed Knife.</hi> It has been your good For<g ref="char:EOLhyphen"/>tune to make War chiefly in your Enemies Country, where by the cruel Devastations your Men made, killing, burning, and destroying all they could, and by the most heavy Contributions which they exacted in other places, you had not only the advantage of hindring your Ene<g ref="char:EOLhyphen"/>mies from receiving any Assistance from those of their Subjects, but at the same time, the Depredations of your Soldiers serv'd them instead of Pay, and the Sums you rais'd enabled you to carry on the War, partly at your Enemies expence: But now that it is likely to be re<g ref="char:EOLhyphen"/>mov'd
+<pb n="129" facs="tcp:35817:66"/> into the very heart of your Country, the Medal will be revers'd, and it will be impossible for you to hold out. Take care lest Fortune; who, as some of your Flatterers would make you believe, is ty'd to your Triumphal Chariot, overturn it at last, having only rais'd you very high, that your Fall may be the greater. A Prince ought to be a<g ref="char:EOLhyphen"/>fraid of all things, when he attempts to put himself above the Laws, as we have seen in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Not at all,</hi> reply'd the King, <hi>ac<g ref="char:EOLhyphen"/>cording to</hi> Machiavel, <hi>who under<g ref="char:EOLhyphen"/>stood the Art of Ruling somewhat better than</hi> Homer; <hi>I have always follow'd the Maxims of the first, and rais'd my self by them, having thus by degrees brought my Kingdom to bear my Arbitrary Government; and indeed, I have found that the Lives and Estates of Subjects belong to the
+<pb n="130" facs="tcp:35817:67"/> Prince, they being born only to make their Soveraign great.</hi>
+            </p>
+            <p>This indeed may do, <hi>said</hi> Lou<g ref="char:EOLhyphen"/>vois, if the People are willing to submit to it. Some years ago the Abdicated King and Queen reason'd thus, and principally that Queen; but now I believe they are both suffici<g ref="char:EOLhyphen"/>ently mortify'd.</p>
+            <p>
+               <hi>Your comparison is lame on both sides,</hi> reply'd the King: <hi>Would you compare my Authority to that which that Prince had, and the Submission of my Subjects to the Stubborness of the</hi> English, <hi>who are all of them like so many Lords in their Country? Cardinal</hi> Mazarin <hi>at his death ad<g ref="char:EOLhyphen"/>vis'd me to keep my Subjects poor, if I would have them obedient. Since the Estates of my Kingdom have been down, the Commons lost their Autho<g ref="char:EOLhyphen"/>rity: but when their Deputies were assembled, that Body was like another Soveraign in my Kingdom. Had my
+<pb n="131" facs="tcp:35817:67"/> Brother</hi> James <hi>but been able to have pull'd down his Parliament thus, he had been an Absolute Monarch: but he did not go the right way to work, and should have follow'd my Counsel, and receiv'd a</hi> French <hi>Army, to di<g ref="char:EOLhyphen"/>spatch the most busie of his Opposers out of the way.</hi>
+            </p>
+            <p>The <hi>English,</hi> said <hi>Louvois,</hi> are not to be govern'd like some other Na<g ref="char:EOLhyphen"/>tions, and not to be bridled and saddled as easily as your <hi>French</hi> Asses. 'Tis true they say, <hi>Rex</hi> Angliae <hi>non potest errare,</hi> that the King's of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> cannot Err; but that ought to be understood, when they govern according to Law.</p>
+            <p>
+               <hi>Now you talk of the</hi> English, cry'd the King, <hi>what think you of sending my Brother</hi> James <hi>to meet them when they land, perhaps the sight of that Prince may work on them in my fa<g ref="char:EOLhyphen"/>vour; and at the worst, if he were taken, the loss would not be very
+<pb n="132" facs="tcp:35817:68"/> great, since I have the Prince of</hi> Wales <hi>in my power.</hi>
+            </p>
+            <p>Alas! <hi>said</hi> Louvois, how can you expect he should defend your King<g ref="char:EOLhyphen"/>dom, you know he could not keep his own. Your best way is to let him stay at St. <hi>Germains,</hi> whilst you on your side carry on your Intreagues, and by your Intelligencers sist those of your Enemies, and foment Dissen<g ref="char:EOLhyphen"/>tion among them; never sallying out of <hi>Versaille,</hi> but when you are sure that your Designs cannot miscar<g ref="char:EOLhyphen"/>ry.</p>
+            <p>
+               <hi>I have always follow'd that Rule,</hi> reply'd the King, <hi>though after all 'tis not always very safe to trust Trai<g ref="char:EOLhyphen"/>tors.</hi>
+            </p>
+            <p>The considerable Sums, <hi>cry'd</hi> Louvois, with which you reward their Treacheries, make them ge<g ref="char:EOLhyphen"/>nerally faithfully perform their Pro<g ref="char:EOLhyphen"/>mises to you; witness at <hi>Mons,</hi> where I sent a Calf all stuff'd with
+<pb n="133" facs="tcp:35817:68"/>
+               <hi>Lewis d'Ors,</hi> by a trusty Messenger, which the Person to whom I sent it no sooner saw, but he humbled himself at the sight of the Golden Calf, and you soon saw the effect it had. There are a thousand ways to convey Money, the most difficult point is to find such Persons to trade with as may deserve it.</p>
+            <p>I see that you have already begun to lessen your Severity against the New Converts, and am only sorry that you begin so late. When the Prince of <hi>Orange</hi> landed in <hi>England,</hi> King <hi>James</hi> gave back to the Citi<g ref="char:EOLhyphen"/>zens of <hi>London</hi> their Charter and Priviledges, promis'd to his Sub<g ref="char:EOLhyphen"/>jects to call a Free Parliament, and not to demand any more the taking off the Penal Laws and Test. But all this did him no good, because the People look'd upon all these Con<g ref="char:EOLhyphen"/>cessions as being forc'd from him through fear. However, it may
+<pb n="134" facs="tcp:35817:69"/> not be amiss to re-establish the E<g ref="char:EOLhyphen"/>dict which you have taken from your Protestant Subjects, and sup<g ref="char:EOLhyphen"/>press the many new Impositions un<g ref="char:EOLhyphen"/>der which the People groans; and to promise to restore to the Parlia<g ref="char:EOLhyphen"/>ments their ancient Authority; re-establishing the States of the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>
+               <hi>I will never consent to this,</hi> said the King; <hi>For as to the first point, I have solemnly sworn to the Queen never to do it. Then for the others, I have taken too much pains to pull down the Authority of the Parlia<g ref="char:EOLhyphen"/>ments, whose power made me uneasie, and pretended to be equal to my Au<g ref="char:EOLhyphen"/>thority; neither shall it be said that I have meanly call'd back my Decrees, and cring'd to my Subjects. I have great Armies under good Generals, Slaves to my Will, and punctual to my Orders, which will keep all my Kingdom in their Duty.</hi>
+            </p>
+            <pb n="135" facs="tcp:35817:69"/>
+            <p>I have but one good Counsel more to give you, <hi>said</hi> Louvois, before I leave you; which is, That if you find that the Confederates, in<g ref="char:EOLhyphen"/>stead of growing weaker or less u<g ref="char:EOLhyphen"/>nanimous, become more numerous and potent, that your Friend the <hi>Turk</hi> is oblig'd to make a Truce with the Emperour, and your Subjects begin to Mutiny, then you ought to dread some dismal Catastrophe, and therefore must without any more Ceremony imitate the Emperour <hi>Charles</hi> V. who after he had been oblig'd to raise the Siege at <hi>Metz,</hi> finding that Fortune began to leave him, immediately left the Empire to his Brother, and the Crown of <hi>Spain</hi> to his Son, and retir'd from all Publick Affairs, to lead a private Life during his remaining days; so that it may be said that he left For<g ref="char:EOLhyphen"/>tune, before she had left him. He knew very well that the old God<g ref="char:EOLhyphen"/>dess
+<pb n="136" facs="tcp:35817:70"/> loves to favour Youth, and that the People are Lovers of Novel<g ref="char:EOLhyphen"/>ties.</p>
+            <p>
+               <hi>Thus,</hi> said the King, <hi>you advise me to leave the Crown to the</hi> Dau<g ref="char:EOLhyphen"/>phin; <hi>but that's a thing not to be done by a great Prince in my present station.</hi> Charles V. <hi>had no sooner made that foolish step than he repent<g ref="char:EOLhyphen"/>ed it, but it was too late: No, I am like those old Soldiers that love to die with their Swords in their hand; I have learn'd not to strip till I go to Bed.</hi>
+            </p>
+            <p>A fatal Reverse, <hi>said</hi> Louvois, can never be pleasing to an Ambitious Prince, and he that is us'd to con<g ref="char:EOLhyphen"/>quer, cannot without much relu<g ref="char:EOLhyphen"/>ctancy be perswaded to give back what he has taken, unless he be as insensible as the King of St. <hi>Germain,</hi> who was rejoycing at the very time he had the most cause to be afflict<g ref="char:EOLhyphen"/>ed, and was passing over the <hi>Shan<g ref="char:EOLhyphen"/>non,</hi>
+               <pb n="137" facs="tcp:35817:70"/> in a Map of <hi>Ireland,</hi> with his Army, when the <hi>English</hi> had pass'd it in reality at <hi>Athlone.</hi>
+            </p>
+            <p>
+               <hi>I am of Opinion,</hi> said the King, <hi>that to prevent all bad Prophesies, the best means will be to raise money, and let my Ministers get some by any me<g ref="char:EOLhyphen"/>thod whatsoever. A King had bet<g ref="char:EOLhyphen"/>ter reign on a ruin'd Kingdom, then lose it for want of Supplies; and Sub<g ref="char:EOLhyphen"/>jects are happy enough when they come off for Money, since they are born for their Prince, saith</hi> Machiavel.</p>
+            <p>Take heed, <hi>said</hi> Louvois, a Peo<g ref="char:EOLhyphen"/>ple driven to Despair, is an unruly Monster, not to be curb'd, and hear<g ref="char:EOLhyphen"/>kens no longer to the Soveraign's Voice.</p>
+            <p>
+               <hi>If they rebel,</hi> said the King, <hi>my Armies will not, and some Detach<g ref="char:EOLhyphen"/>ments from thence shall Cut off with<g ref="char:EOLhyphen"/>out any mercy all those that shall be found to mutiny. The punishment of those of</hi> Bourdeaux <hi>will deter all o<g ref="char:EOLhyphen"/>thers
+<pb n="138" facs="tcp:35817:71"/> from the like Offence. They ought indeed to think on it more then once before they go about it; for, to tell you my mind freely, I am re<g ref="char:EOLhyphen"/>solv'd to push on my Fortune to the very last, and to face my destiny with Sword in hand; and when I shall be no longer able to attack, I will act the defensive part, being fully and stedfastly resolved not to yield up any thing by force, but rather like</hi> John <hi>the second King of</hi> Portugal, <hi>to die like a King.</hi>
+            </p>
+            <p>If this be your Resolution, said Louvois, you have no further need of Counsel, and the Dice is thrown, <hi>Mene, Mene, Tekel, Ʋpharsin.</hi>
+            </p>
+            <p>These words were follow'd by several Flashes of Lightning and dreadful Claps of Thunder. Imme<g ref="char:EOLhyphen"/>diately after that an horrible Earth<g ref="char:EOLhyphen"/>quake shook the Shed, and all the neighbouring Wood, most of whose Trees were pluck'd up by the Roots,
+<pb n="139" facs="tcp:35817:71"/> and the Phantasm vanish'd without giving the meaning of the words. The King was so affrighted, that he could not come to himself for at least half an hour. At last he went to his <hi>Valet de Chambre,</hi> who wait<g ref="char:EOLhyphen"/>ed at the Door, and having order'd him to give an handful of Gold to the old Witch, he renew'd to her his promise not to molest her, and took Horse to return to his Palace. But the <hi>Valet de Chambre,</hi> who saw that he was very sad and thought<g ref="char:EOLhyphen"/>ful, imagin'd that <hi>Louvois</hi> had not taught him how to raise Money, and that his Majesties Grief proceeded from this; so he made bold to pray the King not to be concern'd, saying that he knew how to bring vast Sums into his Coffers in a very short time. The King smil'd at these words, and gave him leave to speak, though it were but to remove his Melancholy.</p>
+            <pb n="140" facs="tcp:35817:72"/>
+            <p>May it please your Majesty, said the <hi>Valet de Chambre,</hi> I have heard that in <hi>Persia</hi> liv'd a great King, who caus'd his Statue to be made in Gold, and had it set up in his Capital Ci<g ref="char:EOLhyphen"/>ty, and then commanded, that when<g ref="char:EOLhyphen"/>ever the Horn, the Trumpets, and the Hautbois play'd, all the People (without any Exception) should fall down before it, upon pain of being thrown into a fiery Furnace.</p>
+            <p>I humbly presume to advise your Majesty, whose Statue is already e<g ref="char:EOLhyphen"/>rected in the <hi>Place des Victoires</hi> (and whose Inscription, <hi>Viro Immor<g ref="char:EOLhyphen"/>tali,</hi> of it self imprints a Venerati<g ref="char:EOLhyphen"/>on on our Minds) to publish an E<g ref="char:EOLhyphen"/>dict like that of that <hi>Persian</hi> King, whereby all the People in your Dom nions, of whatsoever Nation, Sex, or Condition they be, shall be oblig'd, as soon as they hear the Trumpets, Kettle-Drums, and Haut<g ref="char:EOLhyphen"/>boys, once a day at the hour of
+<pb n="141" facs="tcp:35817:72"/>
+               <hi>Salutation,</hi> to prostrate themselves before your Majesty's Statue, and in all other Towns and Provinces, be<g ref="char:EOLhyphen"/>fore the Image of that same Statue, which shall be sent there to be plac'd in all the Towns and Villa<g ref="char:EOLhyphen"/>ges, and whoever doth not fall down before it, shall pay for every such Offence a certain Fine, with all the necessary Clauses, which the Clerks and Delegates of Monsieur <hi>de Pont Chartrain</hi> know better than I do how to specifie; however, with this Proviso, That for a good Sum of Money any one shall have the liberty to exempt himself from that Duty, in the same manner as in <hi>Spain</hi> the People buy off the Prose<g ref="char:EOLhyphen"/>cution of the Inquisitors, in time of <hi>Lent.</hi> I am perswaded that by these Means your Majesty will get much more than by those funerary Taxes which your Farmers demand of the Living for the Dead; for to receive
+<pb n="142" facs="tcp:35817:73"/> any great benefit by that Invention they ought to be in fee with the Surgeons and Apothecaries: But this Project of mine would bring you Money in less than a Month. And to make it the more useful, it would be necessary that every indi<g ref="char:EOLhyphen"/>vidual Family should be oblig'd to answer for every Member in it, the Rich for the Poor, without Appeal, Bail, or Mainprize.</p>
+            <p>
+               <hi>Money,</hi> said the King, <hi>is very wel<g ref="char:EOLhyphen"/>come to me at any time, and princi<g ref="char:EOLhyphen"/>pally at present, but I find an obsta<g ref="char:EOLhyphen"/>cle in thy Proposal; that is, many weaknesses to which I am subject, ea<g ref="char:EOLhyphen"/>sily perswade me that I am not Im<g ref="char:EOLhyphen"/>mortal.</hi>
+            </p>
+            <p>Alas, Sir, <hi>cry'd the</hi> Valet de Cham<g ref="char:EOLhyphen"/>bre, you need not trouble your self for that, the ancient Gods were not more perfect than your Majesty, they had been subject here on Earth to Infirmities as well as other Men;
+<pb n="143" facs="tcp:35817:73"/> some were Lame, some wanted an Eye, some were Thieves, Fornica<g ref="char:EOLhyphen"/>tors, Adulterers, Deceivers, Mur<g ref="char:EOLhyphen"/>therers: And on the other side, all manner of Pleasures were welcome to them, as they are in your Maje<g ref="char:EOLhyphen"/>sties Court. All these Gallantries have not hindred them from being Deify'd, and made Sacred to be worship'd by the People of this World. Even amongst Catholicks the Saints whom the Pope Canoni<g ref="char:EOLhyphen"/>zes have not been perfect, but have had their Failings like the rest of Mankind.</p>
+            <p>
+               <hi>Thou flatter'st me in the most sen<g ref="char:EOLhyphen"/>sible part,</hi> said the King, <hi>I promise thee a thousand</hi> Lewis d'Ors <hi>for thy Advice: But if I made such an E<g ref="char:EOLhyphen"/>dict, what would'st thou do thy self?</hi>
+            </p>
+            <p>Sir, <hi>reply'd the</hi> Valet de Chambre, Gold is an attractive Metal which imprints Veneration and Respect on its Beholders. It is like the Sun, we
+<pb n="144" facs="tcp:35817:74"/> cannot look on it without loving it, and being charm'd with its Beauty; for this reason I am of opinion; that the People of <hi>Siam</hi> (according to Father <hi>Tachard</hi>'s Relation) have made their Gods of Massive Gold, and the Chief of them is so large, that he cannot stand upright in their Pagodes, so that it is a difficult thing to see him, and not admire and desire him</p>
+            <p>
+               <hi>But,</hi> said the King, <hi>were all my Subjects of thy mind, I should get but little by thy Project.</hi>
+            </p>
+            <p>Sir <hi>reply'd the</hi> Valet de Chambre, it is impossible that all Men should be of one mind.</p>
+            <p>
+               <hi>Yet,</hi> said the King, <hi>thou hast seen that when I commanded that all my Subjects should profess the same Reli<g ref="char:EOLhyphen"/>gion, and go to Mass, they have all obey'd in a very short time.</hi>
+            </p>
+            <p>I know it, <hi>said the</hi> Valet de Cham<g ref="char:EOLhyphen"/>bre; but let your Majesty be pleas'd
+<pb n="145" facs="tcp:35817:74"/> to consider, that the means which have been us'd to perform that great Design, might infallibly have made all the <hi>Hugonots</hi> Mahometans as soon as Catholicks; and if, instead of employing the Dragoons to con<g ref="char:EOLhyphen"/>vert them, your Majesty had laid a Fine of a <hi>Lewis d'Or</hi> on every <hi>Hugonot,</hi> you would have had more <hi>Lewis d'Ors</hi> than Catholicks. But in the Point in question, there would be no Force or Compulsion us'd, and by that means the more Money would come into your Coffers.</p>
+            <p>
+               <hi>But,</hi> said the King, <hi>what will the world say of it?</hi>
+            </p>
+            <p>Perhaps, <hi>reply'd the</hi> Valet de Chambre, the World will talk of it a Week or so, as is commonly done in other Cases, and then there will be no more said of it; princi<g ref="char:EOLhyphen"/>pally considering the many glori<g ref="char:EOLhyphen"/>ous and remarkable Actions which your Majesty has done, which may
+<pb n="146" facs="tcp:35817:75"/> the sooner cause this to be pass'd o<g ref="char:EOLhyphen"/>ver. The Nation ought to know, that it is necessary to have Money, that Sinew of War, to maintain One so glorious as is that wherein your Majesty is now engaged, and Subjects ought to offer Incense to the Grandeur of their Prince. See<g ref="char:EOLhyphen"/>ing you want Money, your Majesty ought to pass over all Difficulties, as you did when you borrowed the Church Plate. When a busi<g ref="char:EOLhyphen"/>ness is useful to the Prince, he ought not to hearken to the Dis<g ref="char:EOLhyphen"/>courses of his Subjects, the Refle<g ref="char:EOLhyphen"/>ctions about it ought to be like those shallow Rivers and little Streams which we wade over, with<g ref="char:EOLhyphen"/>out so much as making an halt: And the Peoples consent is the Pa<g ref="char:EOLhyphen"/>trimony of every private Man, as Greatness is that of Princes.</p>
+            <pb n="147" facs="tcp:35817:75"/>
+            <p>
+               <hi>I have no need of Lessons on that Chapter,</hi> said the King, <hi>and never valued, nor will now admit any of their</hi> most humble Remonstran<g ref="char:EOLhyphen"/>ces: <hi>Let me have to morrow your Project in Writing, I will shew it to Madam</hi> de Maintenon, <hi>that she may have it examin'd by my Councel of Conscience; if the thing may be done, you shall hear from me shortly; but for my Discharge, I must have their Approbation, for then my Conscience will be clear.</hi>
+            </p>
+            <p>If your Majesty like the Design, <hi>said the</hi> Valet de Chambre, there is no doubt but the good Fathers of the Society will also approve of it, and give it such a turn, as may cause it to succeed to your Majesty's Glo<g ref="char:EOLhyphen"/>ry. All Men must grant that they are Men of Wit and Invention, who neglect nothing, since their Zeal extends to the very <hi>Indies,</hi> and every Affair passes through their
+<pb n="148" facs="tcp:35817:76"/> Hands, where they are in any e<g ref="char:EOLhyphen"/>steem: But before you acquaint them with, it may not be amiss to pre-ingage them, that they may fully understand the state of the Question.</p>
+            <p>
+               <hi>They are good pious Souls,</hi> said the King, <hi>and not so addicted to their private Interest, as some People give out; they rather daily expose them<g ref="char:EOLhyphen"/>selves to Sufferings and Martyrdom to propagate the Gospel.</hi>
+            </p>
+            <p>Sir, <hi>reply'd the</hi> Valet de Cham<g ref="char:EOLhyphen"/>bre, some say that it is a Trick to enrich themselves, and give them a Reputation in <hi>Europe,</hi> which brings them much Wealth, and causes them to be admir'd by all good Catholicks, who leave them large Legacies.</p>
+            <p>
+               <hi>I know,</hi> said the King, <hi>that they are thrifty, and husband their E<g ref="char:EOLhyphen"/>states carefully, and indeed their Or<g ref="char:EOLhyphen"/>der could not subsist otherwise; but
+<pb n="149" facs="tcp:35817:76"/> also they are as it were the Pillars of our Church, and the Prop of the Apostolick See, which they vigorously defend by their Learned Writings a<g ref="char:EOLhyphen"/>gainst Hereticks: I ought to esteem them, since after the Decision of the Assembly of my Clergy in</hi> 1682. <hi>they sided with me, even against the Pope's Infallibility.</hi>
+            </p>
+            <p>They had indeed that Complai<g ref="char:EOLhyphen"/>sance for your Majesty in <hi>France, said the</hi> Valet de Chambre, whilst they taught the contrary every where else; and but some few days ago, one of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m was even so pru<g ref="char:EOLhyphen"/>dent, as not to suffe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Thesis</hi> to be argued, which asse<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d the Pope's Infallibility, so to Trim between your Majesty and his Holiness.</p>
+            <p>
+               <hi>They are wise,</hi> said the King, <hi>and can often draw a Penitent out of a troublesome Case of Conscience, and only make a small Venial Offence of what other Religious Orders would
+<pb n="150" facs="tcp:35817:77"/> have reckon'd a deadly sin.</hi>
+            </p>
+            <p>'Tis for this Cause, <hi>said the</hi> Va<g ref="char:EOLhyphen"/>let de Chambre, that they are Ma<g ref="char:EOLhyphen"/>sters of the Confessionals in all the Catholick Courts of <hi>Europe.</hi>
+            </p>
+            <p>
+               <hi>For my part,</hi> reply'd the King, <hi>I will never have any others, for I find these a very convenient, easie sort of People; I leave the Severity and Austere way of the</hi> Capuchins <hi>to the Ignorant Vulgar, it is a Bridle that serves to Curb their unruly Tempers. Thus the ancient Heathens kept the People within the Bounds of Obedi<g ref="char:EOLhyphen"/>ence, and us'd to fright them with the Thoughts of a</hi> Jupiter <hi>hurling his Thunderbolts at Mankind.</hi>
+            </p>
+            <p>Sir, <hi>said the</hi> Valet de Chambre, we know no other <hi>Jupiter</hi> than your Majesty, and no other Thun<g ref="char:EOLhyphen"/>derbolts than his All-conquering Arms that strike a Terrour where<g ref="char:EOLhyphen"/>ever they move. 'Tis you that give Peace to <hi>Europe,</hi> that destroy those
+<pb n="151" facs="tcp:35817:77"/> that disobey, but take care to re<g ref="char:EOLhyphen"/>ward the Faithful: 'Tis you, that like a Deity, do good to those that are not in a Capacity to return a<g ref="char:EOLhyphen"/>ny to you, and who by your Li<g ref="char:EOLhyphen"/>berality have Immortaliz'd your Name.</p>
+            <p>
+               <hi>Thou art a flattering Knave,</hi> said the King, <hi>and touchest me pleasingly in the most sensible part. Well, I will take care of thy Advancement, take my word for't:</hi> And thus ended the Journey.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35817:78"/>
+            <head>Books Printed for, and sold by <hi>Richard Baldwin.</hi>
+            </head>
+            <p>THe Lord <hi>Delamere</hi>'s Speech to the Grand Jury at <hi>Chester, April</hi> 13. 1692.</p>
+            <p>The Speech of the Right Honourable <hi>Thomas</hi> E. of <hi>Stamford,</hi> L. <hi>Gray</hi> of <hi>Grooby,</hi> &amp;c. at the General Quarter Sessions held for the County of <hi>Leicester,</hi> at Michaelmas. 1691.</p>
+            <p>
+               <hi>Mercurius Britannicus:</hi> Or the new Observator. Containing Reflections upon the most remarkable Events falling out from time to time in <hi>Europe,</hi> and more particularly in <hi>England.</hi> The fifth Vol.</p>
+            <p>
+               <hi>Bibliotheca Politica;</hi> Or a Discourse by way of Dialogue, <hi>Whether absolute Non-resistance of the Su<g ref="char:EOLhyphen"/>preme Powers be enjoyned by the Doctrine of the Go<g ref="char:EOLhyphen"/>spel, and was the ancient practise of the Primitive Church, and the constant Doctrine of our Reformed Church of</hi> England, <hi>&amp;c.</hi>
+            </p>
+            <p>A Faithful Account of the Renewed Persecuti<g ref="char:EOLhyphen"/>on of the Churches of <hi>Lower Aquitain</hi> in <hi>France,</hi> in the Year 1692 <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Christianissimus Christianandus.</hi> Or, Reason for the Reduction of <hi>France</hi> to a more Christian State In <hi>Europe.</hi> By <hi>Marchimam Needham.</hi>
+            </p>
+            <p>A Project of a Descent upon <hi>France.</hi> By a Per<g ref="char:EOLhyphen"/>son of Quality.</p>
+            <p>A True Relation of the Cruelties and Barbari<g ref="char:EOLhyphen"/>ties of the <hi>French</hi> upon the <hi>English</hi> Prisoners of War; being a Journal of their Travels from <hi>Di<g ref="char:EOLhyphen"/>nant</hi> in <hi>Britany,</hi> to <hi>Thoulon</hi> in <hi>Provence,</hi> and back again, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Europe</hi>'s Chains broke; or a sure and speedy <hi>Project</hi> to rescue her from the present Usurpations of the Tyrant of <hi>France.</hi>
+            </p>
+            <p>Reflections upon the late K. <hi>James</hi>'s Declarati<g ref="char:EOLhyphen"/>on, lately dispersed by the <hi>Jacobites.</hi>
+            </p>
+            <pb facs="tcp:35817:78"/>
+         </div>
+      </back>
+   </text>
+</TEI>
